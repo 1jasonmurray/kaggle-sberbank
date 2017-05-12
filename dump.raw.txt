@@ -1,0 +1,2110 @@
+booster[0]:
+0:[full_sq<91.6995] yes=1,no=2,missing=1
+	1:[full_sq<52.5] yes=3,no=4,missing=4
+		3:[sport_count_3000<6] yes=7,no=8,missing=7
+			7:[cafe_count_5000<5] yes=15,no=16,missing=15
+				15:[full_sq<34.5] yes=31,no=32,missing=32
+					31:[metro_min_avto<13.635] yes=63,no=64,missing=63
+						63:leaf=150000
+						64:leaf=665677
+					32:[metro_min_avto<22.9022] yes=65,no=66,missing=65
+						65:leaf=1.03889e+06
+						66:leaf=826968
+				16:[full_sq<43.5] yes=33,no=34,missing=34
+					33:[full_sq<37.5] yes=67,no=68,missing=68
+						67:leaf=1.08252e+06
+						68:leaf=1.24369e+06
+					34:[kitch_sq<10.5] yes=69,no=70,missing=70
+						69:leaf=1.53964e+06
+						70:leaf=1.31322e+06
+			8:[full_sq<40.5] yes=17,no=18,missing=18
+				17:[kitch_sq<5.5] yes=35,no=36,missing=35
+					35:[full_sq<24.5] yes=71,no=72,missing=72
+						71:leaf=989502
+						72:leaf=1.527e+06
+					36:[cafe_count_5000_price_high<1] yes=73,no=74,missing=73
+						73:leaf=1.65119e+06
+						74:leaf=1.9925e+06
+				18:[ttk_km<3.16804] yes=37,no=38,missing=37
+					37:[full_sq<46.5] yes=75,no=76,missing=76
+						75:leaf=2.13926e+06
+						76:leaf=2.64572e+06
+					38:[kitch_sq<5.5] yes=77,no=78,missing=77
+						77:leaf=1.77364e+06
+						78:leaf=2.01632e+06
+		4:[cafe_count_5000_price_2500<11] yes=9,no=10,missing=9
+			9:[sport_count_3000<6] yes=19,no=20,missing=19
+				19:[full_sq<71.5] yes=39,no=40,missing=39
+					39:[cafe_count_5000<5] yes=79,no=80,missing=79
+						79:leaf=1.13175e+06
+						80:leaf=1.70764e+06
+					40:[green_part_5000<36.77] yes=81,no=82,missing=81
+						81:leaf=2.1805e+06
+						82:leaf=1.83399e+06
+				20:[full_sq<70.9565] yes=41,no=42,missing=41
+					41:[build_year<2010.5] yes=83,no=84,missing=84
+						83:leaf=2.27204e+06
+						84:leaf=1.97846e+06
+					42:[trc_sqm_2000<34951] yes=85,no=86,missing=85
+						85:leaf=2.45634e+06
+						86:leaf=3.05693e+06
+			10:[full_sq<67.5] yes=21,no=22,missing=22
+				21:[big_road1_km<3.80115] yes=43,no=44,missing=43
+					43:[cafe_count_3000_price_2500<10] yes=87,no=88,missing=87
+						87:leaf=2.56105e+06
+						88:leaf=3.10779e+06
+					44:[kindergarten_km<0.112047] yes=89,no=90,missing=89
+						89:leaf=786892
+						90:leaf=1.84071e+06
+				22:[public_transport_station_km<0.310082] yes=45,no=46,missing=45
+					45:[cafe_count_1500_price_high<1] yes=91,no=92,missing=91
+						91:leaf=3.68679e+06
+						92:leaf=5.06341e+06
+					46:[school_education_centers_raion<5] yes=93,no=94,missing=93
+						93:leaf=2.35333e+06
+						94:leaf=3.54386e+06
+	2:[cafe_count_2000<36] yes=5,no=6,missing=5
+		5:[cafe_count_2000<12] yes=11,no=12,missing=11
+			11:[cafe_count_5000_price_500<1] yes=23,no=24,missing=23
+				23:[month_01<1] yes=47,no=48,missing=47
+					47:[detention_facility_km<46.122] yes=95,no=96,missing=95
+						95:leaf=2.26582e+06
+						96:leaf=1.78196e+06
+					48:[full_sq<129.5] yes=97,no=98,missing=98
+						97:leaf=150000
+						98:leaf=592500
+				24:[prom_part_1500<10.515] yes=49,no=50,missing=49
+					49:[prom_part_5000<5.945] yes=99,no=100,missing=100
+						99:leaf=3.77565e+06
+						100:leaf=2.88025e+06
+					50:[market_shop_km<0.848936] yes=101,no=102,missing=101
+						101:leaf=300000
+						102:leaf=2.53796e+06
+			12:[incineration_km<14.5495] yes=25,no=26,missing=25
+				25:[ts_km<5.28] yes=51,no=52,missing=51
+					51:[green_zone_km<0.485564] yes=103,no=104,missing=103
+						103:leaf=4.87508e+06
+						104:leaf=3.63162e+06
+					52:[kindergarten_km<0.113434] yes=105,no=106,missing=105
+						105:leaf=1.40827e+06
+						106:leaf=3.48774e+06
+				26:[life_sq<72] yes=53,no=54,missing=53
+					53:[full_sq<136] yes=107,no=108,missing=108
+						107:leaf=5.47084e+06
+						108:leaf=124110
+					54:[zd_vokzaly_avto_km<14.2838] yes=109,no=110,missing=109
+						109:leaf=1.04325e+07
+						110:leaf=1.92e+06
+		6:[sadovoe_km<2.17542] yes=13,no=14,missing=13
+			13:[bus_terminal_avto_km<3.38544] yes=27,no=28,missing=27
+				27:[dayofmon_16<1] yes=55,no=56,missing=55
+					55:[month_09<1] yes=111,no=112,missing=111
+						111:leaf=7.97067e+06
+						112:leaf=2.85675e+06
+					56:[full_sq<134.5] yes=113,no=114,missing=114
+						113:leaf=2.34312e+06
+						114:leaf=309000
+				28:[prom_part_1500<2.82] yes=57,no=58,missing=57
+					57:[full_sq<118] yes=115,no=116,missing=116
+						115:leaf=9.66733e+06
+						116:leaf=1.50612e+07
+					58:[railroad_station_walk_km<2.32633] yes=117,no=118,missing=118
+						117:leaf=7.72646e+06
+						118:leaf=3.02869e+06
+			14:[full_sq<125.5] yes=29,no=30,missing=30
+				29:[kindergarten_km<0.830625] yes=59,no=60,missing=59
+					59:[leisure_count_3000<11] yes=119,no=120,missing=119
+						119:leaf=5.64366e+06
+						120:leaf=8.73148e+06
+					60:[area_m<5.63644e+06] yes=121,no=122,missing=121
+						121:leaf=150000
+						122:leaf=3.03807e+06
+				30:[build_count_monolith<26] yes=61,no=62,missing=62
+					61:[build_count_block<33] yes=123,no=124,missing=124
+						123:leaf=4.09651e+06
+						124:leaf=7.98843e+06
+					62:[office_sqm_1500<51281] yes=125,no=126,missing=125
+						125:leaf=6.97219e+06
+						126:leaf=1.30831e+07
+booster[1]:
+0:[full_sq<91.6995] yes=1,no=2,missing=1
+	1:[full_sq<64.5] yes=3,no=4,missing=4
+		3:[num_room<1.5] yes=7,no=8,missing=7
+			7:[cafe_count_2000<12] yes=15,no=16,missing=15
+				15:[cafe_count_5000<10] yes=31,no=32,missing=31
+					31:[work_female<2152] yes=63,no=64,missing=63
+						63:leaf=533292
+						64:leaf=757528
+					32:[metro_min_walk<23.6266] yes=65,no=66,missing=65
+						65:leaf=1.07891e+06
+						66:leaf=916957
+				16:[full_sq<46.5] yes=33,no=34,missing=34
+					33:[full_sq<34.5] yes=67,no=68,missing=68
+						67:leaf=1.01203e+06
+						68:leaf=1.25621e+06
+					34:[radiation_km<0.1553] yes=69,no=70,missing=69
+						69:leaf=5.28596e+06
+						70:leaf=1.55466e+06
+			8:[cafe_count_5000_price_high<1] yes=17,no=18,missing=17
+				17:[metro_km_avto<3.53344] yes=35,no=36,missing=35
+					35:[full_sq<49.5] yes=71,no=72,missing=72
+						71:leaf=1.27738e+06
+						72:leaf=1.59635e+06
+					36:[detention_facility_km<31.5166] yes=73,no=74,missing=73
+						73:leaf=1.22562e+06
+						74:leaf=835966
+				18:[full_sq<45.5] yes=37,no=38,missing=38
+					37:[cafe_count_3000_price_2500<92] yes=75,no=76,missing=75
+						75:leaf=1.4329e+06
+						76:leaf=1.93511e+06
+					38:[trc_sqm_1000<588029] yes=77,no=78,missing=77
+						77:leaf=2.10298e+06
+						78:leaf=1.27413e+06
+		4:[cafe_count_2000<13] yes=9,no=10,missing=9
+			9:[swim_pool_km<4.85572] yes=19,no=20,missing=19
+				19:[metro_km_avto<25.9733] yes=39,no=40,missing=39
+					39:[incineration_km<10.288] yes=79,no=80,missing=79
+						79:leaf=2.07069e+06
+						80:leaf=1.73938e+06
+					40:[kindergarten_km<1.64063] yes=81,no=82,missing=81
+						81:leaf=-189814
+						82:leaf=-18814.1
+				20:[railroad_station_walk_km<2.49941] yes=41,no=42,missing=42
+					41:[cafe_sum_2000_max_price_avg<881.945] yes=83,no=84,missing=83
+						83:leaf=1.82597e+06
+						84:leaf=1.42084e+06
+					42:[big_market_km<15.666] yes=85,no=86,missing=85
+						85:leaf=1.36902e+06
+						86:leaf=1.013e+06
+			10:[sadovoe_km<2.17542] yes=21,no=22,missing=21
+				21:[prom_part_5000<13.49] yes=43,no=44,missing=44
+					43:[green_part_1000<25.725] yes=87,no=88,missing=87
+						87:leaf=3.88229e+06
+						88:leaf=-675020
+					44:[basketball_km<0.711977] yes=89,no=90,missing=89
+						89:leaf=3.6958e+06
+						90:leaf=1.75529e+06
+				22:[build_year<1935.5] yes=45,no=46,missing=45
+					45:[big_road1_km<3.7412] yes=91,no=92,missing=91
+						91:leaf=2.19507e+06
+						92:leaf=1.2523e+06
+					46:[cafe_count_5000_price_1500<63] yes=93,no=94,missing=93
+						93:leaf=2.369e+06
+						94:leaf=2.96245e+06
+	2:[cafe_count_3000_price_2500<7] yes=5,no=6,missing=5
+		5:[cafe_count_3000<21] yes=11,no=12,missing=11
+			11:[green_part_5000<35.38] yes=23,no=24,missing=23
+				23:[prom_part_1000<5.21] yes=47,no=48,missing=47
+					47:[swim_pool_km<0.887861] yes=95,no=96,missing=95
+						95:leaf=-177051
+						96:leaf=2.45802e+06
+					48:[market_shop_km<0.83511] yes=97,no=98,missing=97
+						97:leaf=240000
+						98:leaf=1.77123e+06
+				24:[stadium_km<28.7534] yes=49,no=50,missing=49
+					49:[life_sq<48.5] yes=99,no=100,missing=100
+						99:leaf=517116
+						100:leaf=1.65346e+06
+					50:[full_sq<119.5] yes=101,no=102,missing=102
+						101:leaf=820576
+						102:leaf=1.31188e+06
+			12:[full_sq<105.5] yes=25,no=26,missing=26
+				25:[market_shop_km<0.619935] yes=51,no=52,missing=51
+					51:[raion_build_count_with_material_info<441.5] yes=103,no=104,missing=104
+						103:leaf=1.86029e+06
+						104:leaf=63417.6
+					52:[cafe_count_3000_price_500<24] yes=105,no=106,missing=105
+						105:leaf=2.94129e+06
+						106:leaf=1.37094e+06
+				26:[full_sq<257] yes=53,no=54,missing=54
+					53:[cafe_count_2000_price_2500<5] yes=107,no=108,missing=107
+						107:leaf=4.17260e+06
+						108:leaf=395958
+					54:[full_sq<547.5] yes=109,no=110,missing=110
+						109:leaf=159625
+						110:leaf=2.00081e+06
+		6:[full_sq<127.5] yes=13,no=14,missing=14
+			13:[theater_km<2.0273] yes=27,no=28,missing=27
+				27:[cafe_count_5000_price_1500<108] yes=55,no=56,missing=55
+					55:[office_sqm_500<107525] yes=111,no=112,missing=111
+						111:leaf=3.34692e+06
+						112:leaf=-179366
+					56:[radiation_km<0.647412] yes=113,no=114,missing=113
+						113:leaf=9.28279e+06
+						114:leaf=5.60486e+06
+				28:[oil_chemistry_km<8.97512] yes=57,no=58,missing=57
+					57:[life_sq<76.5] yes=115,no=116,missing=116
+						115:leaf=2.98289e+06
+						116:leaf=1.64201e+06
+					58:[prom_part_5000<3.955] yes=117,no=118,missing=118
+						117:leaf=574576
+						118:leaf=4.16496e+06
+			14:[green_zone_part<0.0766141] yes=29,no=30,missing=29
+				29:[trc_sqm_1500<825751] yes=59,no=60,missing=59
+					59:[full_sq<223] yes=119,no=120,missing=120
+						119:leaf=9.50613e+06
+						120:leaf=362314
+					60:[num_room<3.5] yes=121,no=122,missing=122
+						121:leaf=802114
+						122:leaf=5.30796e+06
+				30:[park_km<0.804371] yes=61,no=62,missing=61
+					61:[school_education_centers_top_20_raion<1] yes=123,no=124,missing=123
+						123:leaf=1.01917e+07
+						124:leaf=4.01363e+06
+					62:[build_count_panel<68] yes=125,no=126,missing=126
+						125:leaf=1.95987e+06
+						126:leaf=4.99842e+06
+booster[2]:
+0:[full_sq<84.5] yes=1,no=2,missing=1
+	1:[full_sq<53.5] yes=3,no=4,missing=4
+		3:[nuclear_reactor_km<11.565] yes=7,no=8,missing=7
+			7:[full_sq<36.5] yes=15,no=16,missing=16
+				15:[zd_vokzaly_avto_km<4.04704] yes=31,no=32,missing=31
+					31:[office_count_1000<22] yes=63,no=64,missing=63
+						63:leaf=901267
+						64:leaf=1.41999e+06
+					32:[mkad_km<12.0698] yes=65,no=66,missing=65
+						65:leaf=727732
+						66:leaf=122905
+				16:[cafe_count_5000_price_2500<11] yes=33,no=34,missing=33
+					33:[full_sq<49.5] yes=67,no=68,missing=68
+						67:leaf=786780
+						68:leaf=1.03363e+06
+					34:[trc_count_1500<20] yes=69,no=70,missing=69
+						69:leaf=1.06019e+06
+						70:leaf=456355
+			8:[metro_min_avto<4.72189] yes=17,no=18,missing=17
+				17:[full_sq<28.5] yes=35,no=36,missing=36
+					35:[church_count_2000<3] yes=71,no=72,missing=71
+						71:leaf=115443
+						72:leaf=477880
+					36:[full_sq<44.5] yes=73,no=74,missing=74
+						73:leaf=694953
+						74:leaf=860418
+				18:[full_sq<34.5] yes=37,no=38,missing=38
+					37:[green_zone_part<0.53085] yes=75,no=76,missing=75
+						75:leaf=446788
+						76:leaf=302537
+					38:[fitness_km<1.08192] yes=77,no=78,missing=77
+						77:leaf=656215
+						78:leaf=539616
+		4:[cafe_count_5000_price_2500<11] yes=9,no=10,missing=9
+			9:[sport_objects_raion<4] yes=19,no=20,missing=19
+				19:[num_room<3.5] yes=39,no=40,missing=40
+					39:[full_sq<75.5] yes=79,no=80,missing=79
+						79:leaf=908230
+						80:leaf=1.20093e+06
+					40:[bus_terminal_avto_km<4.90242] yes=81,no=82,missing=81
+						81:leaf=1.40585e+06
+						82:leaf=741991
+				20:[full_sq<67.5] yes=41,no=42,missing=42
+					41:[green_zone_km<0.292971] yes=83,no=84,missing=83
+						83:leaf=1.17494e+06
+						84:leaf=940517
+					42:[build_year<2008.5] yes=85,no=86,missing=86
+						85:leaf=1.57762e+06
+						86:leaf=1.1318e+06
+			10:[full_sq<70.5] yes=21,no=22,missing=22
+				21:[sadovoe_km<1.25236] yes=43,no=44,missing=43
+					43:[trc_count_1500<21] yes=87,no=88,missing=87
+						87:leaf=2.46048e+06
+						88:leaf=-890343
+					44:[radiation_km<0.158485] yes=89,no=90,missing=89
+						89:leaf=3.63952e+06
+						90:leaf=1.32545e+06
+				22:[build_year<953] yes=45,no=46,missing=45
+					45:[railroad_station_avto_km<4.06749] yes=91,no=92,missing=91
+						91:leaf=1.39147e+06
+						92:leaf=1.98301e+06
+					46:[cafe_count_2000_price_1500<18] yes=93,no=94,missing=93
+						93:leaf=1.88064e+06
+						94:leaf=2.52726e+06
+	2:[cafe_count_3000_price_2500<7] yes=5,no=6,missing=5
+		5:[sport_objects_raion<5] yes=11,no=12,missing=11
+			11:[trc_sqm_2000<178716] yes=23,no=24,missing=23
+				23:[big_church_count_2000<3] yes=47,no=48,missing=47
+					47:[swim_pool_km<24.4803] yes=95,no=96,missing=95
+						95:leaf=1.28284e+06
+						96:leaf=863028
+					48:[cafe_count_1000<8] yes=97,no=98,missing=97
+						97:leaf=-948142
+						98:leaf=909520
+				24:[cafe_count_2000_price_2500<4] yes=49,no=50,missing=49
+					49:[basketball_km<4.47961] yes=99,no=100,missing=99
+						99:leaf=2.21051e+06
+						100:leaf=-54672.9
+					50:[full_sq<94.5] yes=101,no=102,missing=102
+						101:leaf=554329
+						102:leaf=-383229
+			12:[full_sq<106.5] yes=25,no=26,missing=26
+				25:[power_transmission_line_km<1.65291] yes=51,no=52,missing=51
+					51:[mosque_km<4.12625] yes=103,no=104,missing=103
+						103:leaf=2.46461e+06
+						104:leaf=1.4922e+06
+					52:[mosque_km<0.230933] yes=105,no=106,missing=105
+						105:leaf=-550543
+						106:leaf=2.33288e+06
+				26:[full_sq<255] yes=53,no=54,missing=54
+					53:[life_sq<71.0365] yes=107,no=108,missing=108
+						107:leaf=2.3085e+06
+						108:leaf=3.72286e+06
+					54:[metro_min_avto<2.52066] yes=109,no=110,missing=109
+						109:leaf=-263207
+						110:leaf=958206
+		6:[full_sq<105.5] yes=13,no=14,missing=14
+			13:[kindergarten_km<0.757721] yes=27,no=28,missing=27
+				27:[industrial_km<1.01453] yes=55,no=56,missing=55
+					55:[state<2.5] yes=111,no=112,missing=111
+						111:leaf=1.7249e+06
+						112:leaf=2.98674e+06
+					56:[university_km<0.769097] yes=113,no=114,missing=113
+						113:leaf=5.21474e+06
+						114:leaf=3.17258e+06
+				28:[cafe_count_2000<26] yes=57,no=58,missing=57
+					57:leaf=2.37242e+06
+					58:[month_05<1] yes=115,no=116,missing=115
+						115:leaf=1.11656e+06
+						116:leaf=119869
+			14:[cafe_sum_2000_min_price_avg<723.69] yes=29,no=30,missing=30
+				29:[shopping_centers_km<1.11631] yes=59,no=60,missing=59
+					59:[church_count_5000<32] yes=117,no=118,missing=117
+						117:leaf=4.01854e+06
+						118:leaf=2.36377e+06
+					60:[full_sq<110.5] yes=119,no=120,missing=120
+						119:leaf=-24039
+						120:leaf=-1.58497e+06
+				30:[cafe_count_5000_price_4000<143] yes=61,no=62,missing=61
+					61:[sport_count_1500<25] yes=121,no=122,missing=121
+						121:leaf=5.1347e+06
+						122:leaf=1.97772e+06
+					62:leaf=1.05709e+07
+booster[3]:
+0:[full_sq<79.5] yes=1,no=2,missing=1
+	1:[full_sq<49.5] yes=3,no=4,missing=4
+		3:[cafe_count_5000_price_2500<12] yes=7,no=8,missing=7
+			7:[metro_min_walk<25.6789] yes=15,no=16,missing=15
+				15:[full_sq<33.5] yes=31,no=32,missing=32
+					31:[full_sq<28.5] yes=63,no=64,missing=64
+						63:leaf=161560
+						64:leaf=414443
+					32:[green_part_3000<8.78] yes=65,no=66,missing=65
+						65:leaf=306831
+						66:leaf=588920
+				16:[material<5.5] yes=33,no=34,missing=34
+					33:[school_km<3.48398] yes=67,no=68,missing=67
+						67:leaf=476812
+						68:leaf=349197
+					34:[full_sq<42.5] yes=69,no=70,missing=70
+						69:leaf=271069
+						70:leaf=422206
+			8:[max_floor<5.5] yes=17,no=18,missing=17
+				17:[build_count_panel<13.5] yes=35,no=36,missing=36
+					35:[ice_rink_km<3.43488] yes=71,no=72,missing=71
+						71:leaf=1.34376e+06
+						72:leaf=526937
+					36:[trc_count_1500<15] yes=73,no=74,missing=73
+						73:leaf=559613
+						74:leaf=181885
+				18:[big_road1_km<3.93021] yes=37,no=38,missing=37
+					37:[cafe_count_2000_price_4000<19] yes=75,no=76,missing=75
+						75:leaf=745736
+						76:leaf=1.50607e+06
+					38:[green_part_500<6.555] yes=77,no=78,missing=77
+						77:leaf=728570
+						78:leaf=319953
+		4:[cafe_count_2000<14] yes=9,no=10,missing=9
+			9:[preschool_quota<2918.5] yes=19,no=20,missing=19
+				19:[bulvar_ring_km<25.3482] yes=39,no=40,missing=39
+					39:[kitch_sq<10.5] yes=79,no=80,missing=80
+						79:leaf=700220
+						80:leaf=540788
+					40:[catering_km<0.512553] yes=81,no=82,missing=81
+						81:leaf=552287
+						82:leaf=321956
+				20:[office_sqm_5000<1766429] yes=41,no=42,missing=41
+					41:[state<2.5] yes=83,no=84,missing=83
+						83:leaf=673797
+						84:leaf=927674
+					42:[railroad_km<1.70228] yes=85,no=86,missing=85
+						85:leaf=1.3676e+06
+						86:leaf=873462
+			10:[full_sq<65.5] yes=21,no=22,missing=22
+				21:[ttk_km<3.42831] yes=43,no=44,missing=43
+					43:[school_education_centers_top_20_raion<1] yes=87,no=88,missing=87
+						87:leaf=997802
+						88:leaf=1.67931e+06
+					44:[railroad_km<2.70967] yes=89,no=90,missing=89
+						89:leaf=756964
+						90:leaf=1.14782e+06
+				22:[cafe_count_500_na_price<6] yes=45,no=46,missing=45
+					45:[cafe_count_3000_price_1500<54] yes=91,no=92,missing=91
+						91:leaf=1.16408e+06
+						92:leaf=1.74704e+06
+					46:[green_zone_km<0.133537] yes=93,no=94,missing=93
+						93:leaf=-1.32478e+06
+						94:leaf=480939
+	2:[cafe_count_3000<100] yes=5,no=6,missing=5
+		5:[swim_pool_km<4.89763] yes=11,no=12,missing=11
+			11:[full_sq<119.5] yes=23,no=24,missing=24
+				23:[cafe_count_3000_price_4000<2] yes=47,no=48,missing=47
+					47:[cafe_count_5000_na_price<29] yes=95,no=96,missing=95
+						95:leaf=1.1931e+06
+						96:leaf=-619660
+					48:[indust_part<0.00353576] yes=97,no=98,missing=97
+						97:leaf=2.79043e+06
+						98:leaf=1.48834e+06
+				24:[basketball_km<1.0133] yes=49,no=50,missing=49
+					49:[sport_count_2000<19] yes=99,no=100,missing=99
+						99:leaf=1.10252e+06
+						100:leaf=-1.23872e+06
+					50:[full_sq<235.931] yes=101,no=102,missing=102
+						101:leaf=3.1426e+06
+						102:leaf=490184
+			12:[build_count_before_1920<19.5] yes=25,no=26,missing=25
+				25:[cafe_count_3000_price_500<14] yes=51,no=52,missing=51
+					51:[build_count_brick<41] yes=103,no=104,missing=104
+						103:leaf=628680
+						104:leaf=875627
+					52:[full_sq<86] yes=105,no=106,missing=106
+						105:leaf=-1.26161e+06
+						106:leaf=756416
+				26:[green_zone_km<0.386591] yes=53,no=54,missing=53
+					53:[shopping_centers_km<0.417953] yes=107,no=108,missing=107
+						107:leaf=600052
+						108:leaf=1.78572e+06
+					54:leaf=-683783
+		6:[full_sq<105.5] yes=13,no=14,missing=14
+			13:[build_count_after_1995<67.5] yes=27,no=28,missing=28
+				27:[detention_facility_km<5.26687] yes=55,no=56,missing=55
+					55:[build_year<2009.5] yes=109,no=110,missing=110
+						109:leaf=1.81495e+06
+						110:leaf=525700
+					56:[hospice_morgue_km<0.475111] yes=111,no=112,missing=111
+						111:leaf=563556
+						112:leaf=2.29483e+06
+				28:[industrial_km<0.393454] yes=57,no=58,missing=57
+					57:[full_sq<97] yes=113,no=114,missing=114
+						113:leaf=784547
+						114:leaf=-1.02503e+06
+					58:[big_road1_km<3.60452] yes=115,no=116,missing=115
+						115:leaf=4.24914e+06
+						116:leaf=-512173
+			14:[swim_pool_km<1.41909] yes=29,no=30,missing=29
+				29:[kitch_sq<16.5] yes=59,no=60,missing=59
+					59:[trc_sqm_500<9251] yes=117,no=118,missing=117
+						117:leaf=4.60361e+06
+						118:leaf=1.8656e+06
+					60:[kitch_sq<22.5] yes=119,no=120,missing=120
+						119:leaf=8.32082e+06
+						120:leaf=3.5508e+06
+				30:[railroad_km<0.799196] yes=61,no=62,missing=61
+					61:[build_count_1921-1945<98] yes=121,no=122,missing=122
+						121:leaf=593899
+						122:leaf=3.56958e+06
+					62:[shopping_centers_km<0.754876] yes=123,no=124,missing=123
+						123:leaf=2.5402e+06
+						124:leaf=5.85306e+06
+booster[4]:
+0:[full_sq<97.8512] yes=1,no=2,missing=1
+	1:[full_sq<57.5] yes=3,no=4,missing=4
+		3:[cafe_count_2000_price_2500<2] yes=7,no=8,missing=7
+			7:[public_healthcare_km<3.93858] yes=15,no=16,missing=15
+				15:[max_floor<9.5] yes=31,no=32,missing=31
+					31:[full_sq<37.5] yes=61,no=62,missing=62
+						61:leaf=240450
+						62:leaf=362563
+					32:[full_sq<54.5] yes=63,no=64,missing=64
+						63:leaf=442029
+						64:leaf=824263
+				16:[prom_part_5000<14.95] yes=33,no=34,missing=34
+					33:[cafe_count_3000_price_1500<14] yes=65,no=66,missing=65
+						65:leaf=269438
+						66:leaf=813860
+					34:[stadium_km<4.76722] yes=67,no=68,missing=67
+						67:leaf=435534
+						68:leaf=20452.1
+			8:[max_floor<5.5] yes=17,no=18,missing=17
+				17:[sub_area_Teplyj Stan<1] yes=35,no=36,missing=35
+					35:[cafe_count_1000_price_high<2] yes=69,no=70,missing=69
+						69:leaf=387661
+						70:leaf=909437
+					36:[park_km<1.16085] yes=71,no=72,missing=71
+						71:leaf=1.46895e+07
+						72:leaf=604031
+				18:[full_sq<41.5] yes=37,no=38,missing=38
+					37:[cafe_count_1000_price_2500<27] yes=73,no=74,missing=73
+						73:leaf=492523
+						74:leaf=146158
+					38:[cafe_count_3000<146] yes=75,no=76,missing=75
+						75:leaf=599466
+						76:leaf=890720
+		4:[cafe_count_5000_price_2500<14] yes=9,no=10,missing=9
+			9:[sport_objects_raion<5] yes=19,no=20,missing=19
+				19:[max_floor<24.5] yes=39,no=40,missing=40
+					39:[school_km<3.432] yes=77,no=78,missing=77
+						77:leaf=569136
+						78:leaf=368810
+					40:[water_treatment_km<22.7269] yes=79,no=80,missing=79
+						79:leaf=402750
+						80:leaf=-644779
+				20:[state<2.5] yes=41,no=42,missing=41
+					41:[indust_part<0.129215] yes=81,no=82,missing=81
+						81:leaf=666654
+						82:leaf=338573
+					42:[build_year<2008.5] yes=83,no=84,missing=83
+						83:leaf=887024
+						84:leaf=47239.7
+			10:[big_road1_km<3.74891] yes=21,no=22,missing=21
+				21:[indust_part<0.000388636] yes=43,no=44,missing=43
+					43:[material<1.5] yes=85,no=86,missing=85
+						85:leaf=1.10776e+06
+						86:leaf=1.9928e+06
+					44:[build_year<1982.5] yes=87,no=88,missing=87
+						87:leaf=756019
+						88:leaf=1.14799e+06
+				22:[build_year<2008.5] yes=45,no=46,missing=46
+					45:[kitch_sq<7.5] yes=89,no=90,missing=90
+						89:leaf=374607
+						90:leaf=1.47159e+06
+					46:[max_floor<16.5] yes=91,no=92,missing=91
+						91:leaf=18550.6
+						92:leaf=347210
+	2:[cafe_count_2000_price_1000<28] yes=5,no=6,missing=5
+		5:[state<3.5] yes=11,no=12,missing=11
+			11:[trc_count_2000<5] yes=23,no=24,missing=23
+				23:[max_floor<25.5] yes=47,no=48,missing=48
+					47:[leisure_count_1000<1] yes=93,no=94,missing=93
+						93:leaf=765938
+						94:leaf=3.43275e+06
+					48:[nuclear_reactor_km<7.97342] yes=95,no=96,missing=95
+						95:leaf=-874856
+						96:leaf=583362
+				24:[railroad_km<0.796009] yes=49,no=50,missing=49
+					49:[cafe_count_2000<66] yes=97,no=98,missing=97
+						97:leaf=1.0776e+06
+						98:leaf=-457831
+					50:[cafe_count_3000_price_4000<3] yes=99,no=100,missing=99
+						99:leaf=1.40465e+06
+						100:leaf=2.96571e+06
+			12:[office_sqm_3000<261658] yes=25,no=26,missing=25
+				25:[cafe_count_1500_price_1500<2] yes=51,no=52,missing=51
+					51:[full_sq<123] yes=101,no=102,missing=102
+						101:leaf=-955176
+						102:leaf=177365
+					52:[office_sqm_2000<67080] yes=103,no=104,missing=103
+						103:leaf=2.20426e+06
+						104:leaf=782003
+				26:[incineration_km<9.90857] yes=53,no=54,missing=53
+					53:[catering_km<0.172543] yes=105,no=106,missing=105
+						105:leaf=3.0498e+06
+						106:leaf=415392
+					54:leaf=5.76794e+06
+		6:[church_count_5000<236] yes=13,no=14,missing=13
+			13:[culture_objects_top_25_raion<1] yes=27,no=28,missing=27
+				27:[prom_part_3000<12.885] yes=55,no=56,missing=55
+					55:[build_year<2009.5] yes=107,no=108,missing=108
+						107:leaf=2.94282e+06
+						108:leaf=1.06609e+06
+					56:[full_sq<102] yes=109,no=110,missing=110
+						109:leaf=980947
+						110:leaf=6.12191e+06
+				28:[green_part_3000<6.085] yes=57,no=58,missing=57
+					57:[railroad_station_avto_min<4.33791] yes=111,no=112,missing=111
+						111:leaf=3.29892e+06
+						112:leaf=-1.59014e+06
+					58:[full_sq<119.5] yes=113,no=114,missing=114
+						113:leaf=3.59667e+06
+						114:leaf=7.10418e+06
+			14:[theater_km<0.516825] yes=29,no=30,missing=29
+				29:leaf=2.39579e+06
+				30:[floor<12] yes=59,no=60,missing=60
+					59:[preschool_km<0.320777] yes=115,no=116,missing=115
+						115:leaf=-1.20237e+06
+						116:leaf=826656
+					60:[life_sq<389] yes=117,no=118,missing=118
+						117:leaf=2.13402e+06
+						118:leaf=-51850.7
+booster[5]:
+0:[full_sq<72.5] yes=1,no=2,missing=2
+	1:[cafe_count_5000_price_high<1] yes=3,no=4,missing=3
+		3:[num_room<1.5] yes=7,no=8,missing=7
+			7:[cafe_count_1000_price_2500<4] yes=15,no=16,missing=15
+				15:[full_sq<30.5] yes=31,no=32,missing=32
+					31:[trc_count_1000<8] yes=61,no=62,missing=61
+						61:leaf=70884
+						62:leaf=1.38193e+06
+					32:[public_healthcare_km<1.2326] yes=63,no=64,missing=63
+						63:leaf=314747
+						64:leaf=213831
+				16:[green_zone_part<0.329238] yes=33,no=34,missing=33
+					33:[prom_part_2000<10.845] yes=65,no=66,missing=65
+						65:leaf=566537
+						66:leaf=-146672
+					34:leaf=1.24861e+07
+			8:[state<3.5] yes=17,no=18,missing=17
+				17:[metro_min_avto<3.32394] yes=35,no=36,missing=35
+					35:[build_year<1967.5] yes=67,no=68,missing=68
+						67:leaf=251834
+						68:leaf=419254
+					36:[church_count_2000<2] yes=69,no=70,missing=69
+						69:leaf=186714
+						70:leaf=306917
+				18:[big_road1_km<5.11436] yes=37,no=38,missing=37
+					37:[cafe_count_500_price_500<5] yes=71,no=72,missing=71
+						71:leaf=889340
+						72:leaf=-487423
+					38:leaf=-905780
+		4:[trc_count_1500<21] yes=9,no=10,missing=9
+			9:[cafe_count_2000_price_4000<19] yes=19,no=20,missing=19
+				19:[floor<5.5] yes=39,no=40,missing=39
+					39:[build_count_1921-1945<118] yes=73,no=74,missing=74
+						73:leaf=315567
+						74:leaf=1.5272e+06
+					40:[build_year<1996.5] yes=75,no=76,missing=75
+						75:leaf=469244
+						76:leaf=734577
+				20:[workplaces_km<0.371395] yes=41,no=42,missing=41
+					41:[big_church_km<0.880906] yes=77,no=78,missing=77
+						77:leaf=476562
+						78:leaf=-1.40785e+06
+					42:[public_healthcare_km<0.895849] yes=79,no=80,missing=79
+						79:leaf=1.9282e+06
+						80:leaf=1.01601e+06
+			10:[fitness_km<0.434483] yes=21,no=22,missing=21
+				21:[product_type_Investment<1] yes=43,no=44,missing=43
+					43:[max_floor<16.5] yes=81,no=82,missing=81
+						81:leaf=-60633.4
+						82:leaf=179588
+					44:[dayofmon_13<1] yes=83,no=84,missing=83
+						83:leaf=754244
+						84:leaf=-271368
+				22:[floor<7] yes=45,no=46,missing=46
+					45:leaf=-1.15924e+06
+					46:leaf=-307659
+	2:[cafe_count_3000_price_1500<24] yes=5,no=6,missing=5
+		5:[cafe_count_3000<21] yes=11,no=12,missing=11
+			11:[mosque_km<0.223057] yes=23,no=24,missing=23
+				23:[metro_min_avto<2.81788] yes=47,no=48,missing=47
+					47:leaf=-1.33573e+06
+					48:leaf=-308198
+				24:[num_room<2.5] yes=49,no=50,missing=49
+					49:[school_km<0.181286] yes=85,no=86,missing=85
+						85:leaf=-274419
+						86:leaf=320280
+					50:[metro_min_avto<2.99271] yes=87,no=88,missing=87
+						87:leaf=579751
+						88:leaf=412478
+			12:[green_part_5000<22.995] yes=25,no=26,missing=25
+				25:[state<3.5] yes=51,no=52,missing=51
+					51:[cafe_count_2000_price_1000<14] yes=89,no=90,missing=89
+						89:leaf=563637
+						90:leaf=178598
+					52:[dayofmon_28<1] yes=91,no=92,missing=91
+						91:leaf=1.47353e+06
+						92:leaf=-629553
+				26:[life_sq<69.5] yes=53,no=54,missing=54
+					53:[industrial_km<1.8939] yes=93,no=94,missing=93
+						93:leaf=585754
+						94:leaf=1.40086e+06
+					54:[full_sq<107.5] yes=95,no=96,missing=96
+						95:leaf=1.08945e+06
+						96:leaf=1.80768e+06
+		6:[full_sq<128] yes=13,no=14,missing=13
+			13:[green_part_1500<5.71] yes=27,no=28,missing=27
+				27:[railroad_km<0.0300579] yes=55,no=56,missing=55
+					55:leaf=-1.29115e+06
+					56:[trc_sqm_3000<1345331] yes=97,no=98,missing=97
+						97:leaf=852856
+						98:leaf=282634
+				28:[cafe_sum_3000_max_price_avg<1388.48] yes=57,no=58,missing=58
+					57:[kitch_sq<14.5] yes=99,no=100,missing=99
+						99:leaf=807393
+						100:leaf=2.06324e+06
+					58:[hospice_morgue_km<1.96272] yes=101,no=102,missing=101
+						101:leaf=2.09443e+06
+						102:leaf=293270
+			14:[cafe_count_1000<6] yes=29,no=30,missing=29
+				29:leaf=7.94725e+06
+				30:[state<2.5] yes=59,no=60,missing=59
+					59:[ttk_km<0.88091] yes=103,no=104,missing=103
+						103:leaf=3.14982e+06
+						104:leaf=1.20501e+06
+					60:[school_education_centers_top_20_raion<1] yes=105,no=106,missing=105
+						105:leaf=4.634e+06
+						106:leaf=692912
+booster[6]:
+0:[full_sq<82.5] yes=1,no=2,missing=1
+	1:[full_sq<45.5] yes=3,no=4,missing=4
+		3:[metro_min_walk<24.2074] yes=7,no=8,missing=8
+			7:[full_sq<32.5] yes=15,no=16,missing=16
+				15:[full_sq<19.5] yes=31,no=32,missing=32
+					31:[church_count_3000<17] yes=61,no=62,missing=61
+						61:leaf=-63527.3
+						62:leaf=-547162
+					32:[kindergarten_km<0.00400387] yes=63,no=64,missing=63
+						63:leaf=-766113
+						64:leaf=137308
+				16:[railroad_station_avto_km<4.13881] yes=33,no=34,missing=33
+					33:[catering_km<0.647154] yes=65,no=66,missing=65
+						65:leaf=216149
+						66:leaf=58449.8
+					34:[cafe_count_5000_price_4000<5] yes=67,no=68,missing=67
+						67:leaf=255332
+						68:leaf=532867
+			8:[culture_objects_top_25_raion<1] yes=17,no=18,missing=17
+				17:[kitch_sq<9.5] yes=35,no=36,missing=36
+					35:[full_sq<34.5] yes=69,no=70,missing=70
+						69:leaf=60436.9
+						70:leaf=162270
+					36:[cafe_count_1500_price_4000<2] yes=71,no=72,missing=71
+						71:leaf=54265.1
+						72:leaf=338285
+				18:[office_sqm_2000<210020] yes=37,no=38,missing=37
+					37:[cafe_count_5000_price_500<48] yes=73,no=74,missing=73
+						73:leaf=204524
+						74:leaf=540210
+					38:[state<2.5] yes=75,no=76,missing=75
+						75:leaf=269623
+						76:leaf=-400962
+		4:[cafe_count_1500<15] yes=9,no=10,missing=9
+			9:[mosque_count_5000<2] yes=19,no=20,missing=19
+				19:[state<3.5] yes=39,no=40,missing=39
+					39:[sub_area_Nagatinskij Zaton<1] yes=77,no=78,missing=77
+						77:leaf=209802
+						78:leaf=609367
+					40:[build_year<1992.5] yes=79,no=80,missing=80
+						79:leaf=291203
+						80:leaf=891531
+				20:[public_healthcare_km<0.259568] yes=41,no=42,missing=41
+					41:leaf=-1.5974e+06
+					42:[big_road1_km<3.12335] yes=81,no=82,missing=81
+						81:leaf=1.19062e+06
+						82:leaf=470960
+			10:[green_part_1500<52.78] yes=21,no=22,missing=21
+				21:[state<2.5] yes=43,no=44,missing=43
+					43:[green_part_1500<5.715] yes=83,no=84,missing=83
+						83:leaf=113049
+						84:leaf=361245
+					44:[cafe_count_5000_price_1500<67] yes=85,no=86,missing=85
+						85:leaf=409763
+						86:leaf=718775
+				22:leaf=1.06132e+07
+	2:[cafe_count_2000_na_price<4] yes=5,no=6,missing=5
+		5:[state<2.5] yes=11,no=12,missing=11
+			11:[floor<5.5] yes=23,no=24,missing=23
+				23:[office_sqm_2000<286522] yes=45,no=46,missing=45
+					45:[stadium_km<0.60299] yes=87,no=88,missing=87
+						87:leaf=-2.30374e+06
+						88:leaf=240133
+					46:[workplaces_km<1.00356] yes=89,no=90,missing=89
+						89:leaf=139422
+						90:leaf=-1.46169e+06
+				24:[cafe_count_1500<65] yes=47,no=48,missing=47
+					47:[material<5.5] yes=91,no=92,missing=92
+						91:leaf=597289
+						92:leaf=260189
+					48:[life_sq<126] yes=93,no=94,missing=93
+						93:leaf=2.79208e+06
+						94:leaf=704483
+			12:[full_sq<140.5] yes=25,no=26,missing=26
+				25:[cafe_avg_price_1000<1215.48] yes=49,no=50,missing=50
+					49:[cafe_count_2000_price_2500<1] yes=95,no=96,missing=95
+						95:leaf=268564
+						96:leaf=1.15291e+06
+					50:[cafe_count_1000_price_2500<2] yes=97,no=98,missing=97
+						97:leaf=321646
+						98:leaf=-1.72013e+06
+				26:[kitch_sq<11] yes=51,no=52,missing=52
+					51:[kitch_sq<7] yes=99,no=100,missing=100
+						99:leaf=-679688
+						100:leaf=795578
+					52:[green_zone_km<0.267168] yes=101,no=102,missing=101
+						101:leaf=3.8329e+06
+						102:leaf=1.37116e+06
+		6:[full_sq<193] yes=13,no=14,missing=14
+			13:[hospital_beds_raion<3714.5] yes=27,no=28,missing=27
+				27:[theater_km<0.170655] yes=53,no=54,missing=53
+					53:leaf=5.0134e+06
+					54:[state<2.5] yes=103,no=104,missing=103
+						103:leaf=647009
+						104:leaf=1.32173e+06
+				28:[university_km<1.08701] yes=55,no=56,missing=55
+					55:[dayofmon_08<1] yes=105,no=106,missing=105
+						105:leaf=3.42982e+06
+						106:leaf=647473
+					56:[max_floor<8.5] yes=107,no=108,missing=107
+						107:leaf=-23269.5
+						108:leaf=2.51553e+06
+			14:[floor<10.5] yes=29,no=30,missing=30
+				29:[build_count_wood<3.5] yes=57,no=58,missing=58
+					57:[floor<5] yes=109,no=110,missing=110
+						109:leaf=589066
+						110:leaf=2.52095e+06
+					58:leaf=6.78054e+06
+				30:[indust_part<0.0814835] yes=59,no=60,missing=59
+					59:leaf=-866567
+					60:leaf=-89169.2
+booster[7]:
+0:[full_sq<139.5] yes=1,no=2,missing=1
+	1:[full_sq<68.5] yes=3,no=4,missing=4
+		3:[metro_km_avto<0.963297] yes=7,no=8,missing=7
+			7:[leisure_count_1000<5] yes=15,no=16,missing=15
+				15:[green_part_1000<53.43] yes=31,no=32,missing=31
+					31:[railroad_station_avto_km<4.31029] yes=59,no=60,missing=59
+						59:leaf=173618
+						60:leaf=332917
+					32:[kindergarten_km<0.179151] yes=61,no=62,missing=61
+						61:leaf=9.02119e+06
+						62:leaf=142555
+				16:[prom_part_3000<12.685] yes=33,no=34,missing=33
+					33:[cafe_count_1000_price_1000<71] yes=63,no=64,missing=63
+						63:leaf=756308
+						64:leaf=-732937
+					34:leaf=2.38221e+06
+			8:[max_floor<5.5] yes=17,no=18,missing=17
+				17:[cafe_sum_5000_max_price_avg<1454.02] yes=35,no=36,missing=35
+					35:[public_transport_station_km<0.155444] yes=65,no=66,missing=65
+						65:leaf=107064
+						66:leaf=27515.1
+					36:[nuclear_reactor_km<5.48297] yes=67,no=68,missing=67
+						67:leaf=448294
+						68:leaf=129515
+				18:[ttk_km<3.78557] yes=37,no=38,missing=37
+					37:[basketball_km<2.93773] yes=69,no=70,missing=69
+						69:leaf=280008
+						70:leaf=1.60784e+06
+					38:[state<2.5] yes=71,no=72,missing=71
+						71:leaf=110524
+						72:leaf=197205
+		4:[cafe_count_1500<21] yes=9,no=10,missing=9
+			9:[cafe_count_5000_price_4000<6] yes=19,no=20,missing=19
+				19:[cafe_count_500<6] yes=39,no=40,missing=39
+					39:[zd_vokzaly_avto_km<6.68273] yes=73,no=74,missing=73
+						73:leaf=-364435
+						74:leaf=212616
+					40:[office_sqm_3000<79481] yes=75,no=76,missing=75
+						75:leaf=171145
+						76:leaf=-980977
+				20:[water_km<0.839712] yes=41,no=42,missing=41
+					41:[sport_count_1500<10] yes=77,no=78,missing=77
+						77:leaf=704830
+						78:leaf=-5896.38
+					42:[church_count_2000<3] yes=79,no=80,missing=79
+						79:leaf=1.53436e+06
+						80:leaf=-421200
+			10:[cemetery_km<0.055599] yes=21,no=22,missing=21
+				21:[preschool_km<0.924952] yes=43,no=44,missing=43
+					43:leaf=900228
+					44:[dayofmon_16<1] yes=81,no=82,missing=81
+						81:leaf=2.74061e+06
+						82:leaf=761679
+				22:[kindergarten_km<0.748356] yes=45,no=46,missing=45
+					45:[indust_part<0.00686733] yes=83,no=84,missing=83
+						83:leaf=798478
+						84:leaf=374458
+					46:[university_km<0.934077] yes=85,no=86,missing=85
+						85:leaf=-1.32908e+06
+						86:leaf=121236
+	2:[church_synagogue_km<0.345226] yes=5,no=6,missing=5
+		5:[kitch_sq<11] yes=11,no=12,missing=12
+			11:[green_zone_km<0.107773] yes=23,no=24,missing=23
+				23:leaf=1.87552e+06
+				24:[industrial_km<1.86075] yes=47,no=48,missing=47
+					47:[full_sq<141.5] yes=87,no=88,missing=88
+						87:leaf=412597
+						88:leaf=53017.5
+					48:leaf=-736885
+			12:[green_part_5000<7.165] yes=25,no=26,missing=25
+				25:leaf=5.12123e+06
+				26:[cafe_count_500_price_1500<7] yes=49,no=50,missing=49
+					49:[life_sq<78.5] yes=89,no=90,missing=89
+						89:leaf=1.35379e+06
+						90:leaf=3.86497e+06
+					50:[radiation_km<1.09613] yes=91,no=92,missing=91
+						91:leaf=511438
+						92:leaf=1.661e+06
+		6:[fitness_km<0.294404] yes=13,no=14,missing=13
+			13:[sport_count_1500<10] yes=27,no=28,missing=27
+				27:[shopping_centers_km<0.600166] yes=51,no=52,missing=51
+					51:[floor<4] yes=93,no=94,missing=94
+						93:leaf=-377002
+						94:leaf=2.04678e+06
+					52:[preschool_education_centers_raion<5] yes=95,no=96,missing=95
+						95:leaf=45350.1
+						96:leaf=-1.13215e+06
+				28:[full_sq<167] yes=53,no=54,missing=54
+					53:[life_sq<154] yes=97,no=98,missing=98
+						97:leaf=2.02236e+06
+						98:leaf=179373
+					54:[material<3] yes=99,no=100,missing=100
+						99:leaf=1.26574e+06
+						100:leaf=4.17736e+06
+			14:[basketball_km<0.93043] yes=29,no=30,missing=29
+				29:[basketball_km<0.84563] yes=55,no=56,missing=55
+					55:[ID_big_road2<16] yes=101,no=102,missing=101
+						101:leaf=-893129
+						102:leaf=15134.9
+					56:leaf=-1.96995e+06
+				30:[sub_area_Pokrovskoe Streshnevo<1] yes=57,no=58,missing=57
+					57:[big_church_count_3000<8] yes=103,no=104,missing=103
+						103:leaf=571224
+						104:leaf=-1.0118e+06
+					58:leaf=4.02694e+06
+booster[8]:
+0:[full_sq<101.5] yes=1,no=2,missing=1
+	1:[floor<1.5] yes=3,no=4,missing=3
+		3:[life_sq<33.8164] yes=7,no=8,missing=7
+			7:[office_sqm_1500<1276271] yes=15,no=16,missing=15
+				15:[big_road1_km<0.0709457] yes=29,no=30,missing=29
+					29:[public_healthcare_km<1.80836] yes=57,no=58,missing=57
+						57:leaf=145751
+						58:leaf=-958596
+					30:[big_road1_km<0.0773519] yes=59,no=60,missing=59
+						59:leaf=1.08192e+06
+						60:leaf=-12762.3
+				16:[public_healthcare_km<1.04123] yes=31,no=32,missing=31
+					31:leaf=-1.42753e+06
+					32:[detention_facility_km<2.993] yes=61,no=62,missing=61
+						61:leaf=-747515
+						62:leaf=399850
+			8:[cafe_count_2000_price_500<6] yes=17,no=18,missing=17
+				17:[ts_km<18.0641] yes=33,no=34,missing=33
+					33:[build_count_frame<70] yes=63,no=64,missing=63
+						63:leaf=56227
+						64:leaf=-502941
+					34:[public_transport_station_km<0.148952] yes=65,no=66,missing=65
+						65:leaf=-891859
+						66:leaf=-268467
+				18:[ID_big_road1<20] yes=35,no=36,missing=35
+					35:[green_part_1000<3.8] yes=67,no=68,missing=67
+						67:leaf=-1.08825e+06
+						68:leaf=-173675
+					36:[indust_part<0.0761989] yes=69,no=70,missing=69
+						69:leaf=-299103
+						70:leaf=-1.75385e+06
+		4:[hospital_beds_raion<4605] yes=9,no=10,missing=9
+			9:[full_sq<59.9411] yes=19,no=20,missing=20
+				19:[state<2.5] yes=37,no=38,missing=37
+					37:[office_sqm_2000<2530891] yes=71,no=72,missing=71
+						71:leaf=77791.1
+						72:leaf=498370
+					38:[build_year<2009.5] yes=73,no=74,missing=73
+						73:leaf=179239
+						74:leaf=-142504
+				20:[build_year<2007.5] yes=39,no=40,missing=40
+					39:[build_year<1996.5] yes=75,no=76,missing=76
+						75:leaf=215791
+						76:leaf=523055
+					40:[office_sqm_2000<2367778] yes=77,no=78,missing=77
+						77:leaf=127567
+						78:leaf=1.47653e+06
+			10:[university_km<0.749091] yes=21,no=22,missing=21
+				21:[max_floor<12.5] yes=41,no=42,missing=42
+					41:leaf=2.28336e+06
+					42:[full_sq<97] yes=79,no=80,missing=80
+						79:leaf=965006
+						80:leaf=-155012
+				22:[dayofmon_03<1] yes=43,no=44,missing=43
+					43:[full_sq<43.5] yes=81,no=82,missing=82
+						81:leaf=305549
+						82:leaf=932657
+					44:leaf=-1.41045e+06
+	2:[cafe_count_1000_price_1000<3] yes=5,no=6,missing=5
+		5:[power_transmission_line_km<0.211692] yes=11,no=12,missing=11
+			11:leaf=3.4229e+06
+			12:[max_floor<26.5] yes=23,no=24,missing=24
+				23:[office_sqm_2000<140645] yes=45,no=46,missing=45
+					45:[cafe_count_5000_price_500<59] yes=83,no=84,missing=83
+						83:leaf=255778
+						84:leaf=-847450
+					46:[big_church_count_1500<2] yes=85,no=86,missing=85
+						85:leaf=1.45025e+06
+						86:leaf=267584
+				24:[cafe_count_3000_price_4000<9] yes=47,no=48,missing=47
+					47:[cafe_sum_3000_min_price_avg<649.295] yes=87,no=88,missing=88
+						87:leaf=678837
+						88:leaf=-282308
+					48:leaf=-2.40733e+06
+		6:[big_road1_km<0.156921] yes=13,no=14,missing=13
+			13:[build_year<4028] yes=25,no=26,missing=26
+				25:[shopping_centers_km<0.232213] yes=49,no=50,missing=49
+					49:[life_sq<145.5] yes=89,no=90,missing=90
+						89:leaf=91405.5
+						90:leaf=-525713
+					50:[kitch_sq<8] yes=91,no=92,missing=92
+						91:leaf=-24443.1
+						92:leaf=-1.22485e+06
+				26:[max_floor<64] yes=51,no=52,missing=52
+					51:leaf=1.10749e+06
+					52:[floor<29] yes=93,no=94,missing=94
+						93:leaf=4642.26
+						94:leaf=916980
+			14:[indust_part<0.237363] yes=27,no=28,missing=27
+				27:[cafe_count_5000_price_1000<627] yes=53,no=54,missing=53
+					53:[power_transmission_line_km<2.61023] yes=95,no=96,missing=95
+						95:leaf=782218
+						96:leaf=1.62447e+06
+					54:[floor<12] yes=97,no=98,missing=98
+						97:leaf=-962460
+						98:leaf=807147
+				28:[ice_rink_km<5.9811] yes=55,no=56,missing=55
+					55:[cafe_sum_5000_min_price_avg<850.895] yes=99,no=100,missing=100
+						99:leaf=57448.2
+						100:leaf=-1.34241e+06
+					56:[full_sq<105.5] yes=101,no=102,missing=102
+						101:leaf=740982
+						102:leaf=2.69812e+06
+booster[9]:
+0:[cafe_count_1000_price_high<2] yes=1,no=2,missing=1
+	1:[state<3.5] yes=3,no=4,missing=3
+		3:[floor<5.5] yes=7,no=8,missing=7
+			7:[railroad_km<0.0989989] yes=15,no=16,missing=15
+				15:[metro_min_walk<6.48767] yes=29,no=30,missing=30
+					29:[kindergarten_km<0.277442] yes=51,no=52,missing=51
+						51:leaf=575251
+						52:leaf=-68025.9
+					30:[industrial_km<0.102334] yes=53,no=54,missing=53
+						53:leaf=-864017
+						54:leaf=-214810
+				16:[floor<1.5] yes=31,no=32,missing=31
+					31:[office_sqm_1500<1415248] yes=55,no=56,missing=55
+						55:leaf=-39577
+						56:leaf=-697713
+					32:[cafe_count_3000_na_price<7] yes=57,no=58,missing=57
+						57:leaf=39883.3
+						58:leaf=134336
+			8:[num_room<3.5] yes=17,no=18,missing=17
+				17:[max_floor<8.5] yes=33,no=34,missing=34
+					33:[cafe_count_3000_price_1500<9] yes=59,no=60,missing=59
+						59:leaf=148087
+						60:leaf=486067
+					34:[hospital_beds_raion<4605] yes=61,no=62,missing=61
+						61:leaf=91446.5
+						62:leaf=859001
+				18:[full_sq<123.5] yes=35,no=36,missing=36
+					35:[dayofmon_31<1] yes=63,no=64,missing=63
+						63:leaf=400356
+						64:leaf=-1.08317e+06
+					36:[area_m<4.84635e+06] yes=65,no=66,missing=65
+						65:leaf=3.33143e+06
+						66:leaf=929254
+		4:[kitch_sq<16.5] yes=9,no=10,missing=10
+			9:[cafe_count_3000_price_500<143] yes=19,no=20,missing=19
+				19:[cafe_avg_price_1500<1018.57] yes=37,no=38,missing=37
+					37:[hospital_beds_raion<4318.5] yes=67,no=68,missing=67
+						67:leaf=236920
+						68:leaf=1.28222e+06
+					38:[cafe_count_2000<25] yes=69,no=70,missing=69
+						69:leaf=386893
+						70:leaf=1.09063e+06
+				20:[ID_metro<154] yes=39,no=40,missing=39
+					39:[full_sq<144.5] yes=71,no=72,missing=72
+						71:leaf=-1.49978e+06
+						72:leaf=-287301
+					40:[public_transport_station_km<0.0941826] yes=73,no=74,missing=73
+						73:leaf=-297107
+						74:leaf=135423
+			10:[office_raion<5] yes=21,no=22,missing=21
+				21:[green_zone_km<0.229988] yes=41,no=42,missing=41
+					41:[life_sq<61.5] yes=75,no=76,missing=76
+						75:leaf=203953
+						76:leaf=-105835
+					42:leaf=755107
+				22:leaf=2.51036e+06
+	2:[full_sq<150.5] yes=5,no=6,missing=6
+		5:[build_count_block<44.5] yes=11,no=12,missing=12
+			11:[hospice_morgue_km<0.231389] yes=23,no=24,missing=23
+				23:[metro_min_walk<5.40642] yes=43,no=44,missing=44
+					43:[floor<6] yes=77,no=78,missing=78
+						77:leaf=114304
+						78:leaf=712723
+					44:[full_sq<26.5] yes=79,no=80,missing=80
+						79:leaf=-96867
+						80:leaf=-1.40187e+06
+				24:[bulvar_ring_km<0.133537] yes=45,no=46,missing=45
+					45:[full_sq<40.5] yes=81,no=82,missing=82
+						81:leaf=13522.5
+						82:leaf=-947027
+					46:[railroad_station_walk_km<2.64156] yes=83,no=84,missing=84
+						83:leaf=882750
+						84:leaf=-349419
+			12:[cafe_sum_5000_min_price_avg<908.81] yes=25,no=26,missing=26
+				25:[church_synagogue_km<0.229092] yes=47,no=48,missing=47
+					47:[museum_km<0.466885] yes=85,no=86,missing=85
+						85:leaf=1.49276e+06
+						86:leaf=381282
+					48:[railroad_station_avto_min<4.4537] yes=87,no=88,missing=87
+						87:leaf=110504
+						88:leaf=-1.7868e+06
+				26:[max_floor<16] yes=49,no=50,missing=50
+					49:[full_sq<40] yes=89,no=90,missing=90
+						89:leaf=-952960
+						90:leaf=253048
+					50:leaf=-2.05399e+06
+		6:[cafe_count_500_price_500<8] yes=13,no=14,missing=13
+			13:leaf=4.81586e+06
+			14:[floor<2.5] yes=27,no=28,missing=28
+				27:leaf=3417
+				28:leaf=1.54597e+06
+booster[10]:
+0:[full_sq<139.5] yes=1,no=2,missing=1
+	1:[cafe_count_5000_price_4000<6] yes=3,no=4,missing=3
+		3:[railroad_km<0.311603] yes=7,no=8,missing=7
+			7:[railroad_station_avto_km<2.62101] yes=15,no=16,missing=15
+				15:[cafe_sum_500_max_price_avg<1450] yes=31,no=32,missing=32
+					31:[cafe_count_1500<56] yes=57,no=58,missing=57
+						57:leaf=91178.2
+						58:leaf=-756868
+					32:[cafe_avg_price_3000<944.585] yes=59,no=60,missing=59
+						59:leaf=16070.1
+						60:leaf=-188677
+				16:[cafe_count_5000<173] yes=33,no=34,missing=33
+					33:[office_km<5.29041] yes=61,no=62,missing=61
+						61:leaf=-83799.8
+						62:leaf=-817449
+					34:[full_sq<67.5] yes=63,no=64,missing=64
+						63:leaf=-324444
+						64:leaf=-1.07225e+06
+			8:[sport_count_2000<19] yes=17,no=18,missing=17
+				17:[cafe_count_1000_price_2500<4] yes=35,no=36,missing=35
+					35:[cafe_sum_2000_min_price_avg<1729.17] yes=65,no=66,missing=65
+						65:leaf=42266.9
+						66:leaf=297245
+					36:[school_km<0.407957] yes=67,no=68,missing=67
+						67:leaf=272240
+						68:leaf=7.64263e+06
+				18:[nuclear_reactor_km<3.87615] yes=37,no=38,missing=37
+					37:[num_room<2.5] yes=69,no=70,missing=69
+						69:leaf=-2.01523e+06
+						70:leaf=371524
+					38:[life_sq<52.5] yes=71,no=72,missing=71
+						71:leaf=141666
+						72:leaf=590006
+		4:[big_market_km<7.92364] yes=9,no=10,missing=9
+			9:[ts_km<6.13605] yes=19,no=20,missing=19
+				19:[cafe_sum_5000_min_price_avg<885.58] yes=39,no=40,missing=40
+					39:[office_sqm_5000<2837713] yes=73,no=74,missing=73
+						73:leaf=318647
+						74:leaf=-46626.8
+					40:[full_sq<67.5] yes=75,no=76,missing=76
+						75:leaf=587532
+						76:leaf=1.91636e+06
+				20:[trc_sqm_1000<33317] yes=41,no=42,missing=41
+					41:leaf=-1.94372e+06
+					42:[office_sqm_1000<310916] yes=77,no=78,missing=77
+						77:leaf=-627518
+						78:leaf=104550
+			10:[material<4.5] yes=21,no=22,missing=22
+				21:[life_sq<53.4696] yes=43,no=44,missing=44
+					43:[prom_part_3000<1.15] yes=79,no=80,missing=79
+						79:leaf=978726
+						80:leaf=156982
+					44:[big_market_km<8.21918] yes=81,no=82,missing=81
+						81:leaf=3.21963e+06
+						82:leaf=435503
+				22:[kindergarten_km<1.23304] yes=45,no=46,missing=45
+					45:[num_room<3.5] yes=83,no=84,missing=83
+						83:leaf=18947.4
+						84:leaf=-2.07982e+06
+					46:[railroad_station_walk_km<1.41443] yes=85,no=86,missing=86
+						85:leaf=891009
+						86:leaf=311176
+	2:[full_sq<223] yes=5,no=6,missing=6
+		5:[theater_km<0.887255] yes=11,no=12,missing=11
+			11:[additional_education_km<0.7511] yes=23,no=24,missing=23
+				23:leaf=3.82235e+06
+				24:[life_sq<103] yes=47,no=48,missing=48
+					47:leaf=-446099
+					48:[full_sq<190.5] yes=87,no=88,missing=88
+						87:leaf=144633
+						88:leaf=537905
+			12:[market_count_3000<5] yes=25,no=26,missing=25
+				25:[max_floor<15.5] yes=49,no=50,missing=49
+					49:[kindergarten_km<0.118422] yes=89,no=90,missing=89
+						89:leaf=1.68271e+06
+						90:leaf=90803.8
+					50:[green_zone_km<0.0636642] yes=91,no=92,missing=91
+						91:leaf=2.19725e+06
+						92:leaf=530073
+				26:[state<2.5] yes=51,no=52,missing=52
+					51:[full_sq<174.5] yes=93,no=94,missing=94
+						93:leaf=-136880
+						94:leaf=942278
+					52:[swim_pool_km<3.18432] yes=95,no=96,missing=95
+						95:leaf=1.95557e+06
+						96:leaf=126840
+		6:[green_part_2000<18.735] yes=13,no=14,missing=13
+			13:[metro_min_avto<2.63806] yes=27,no=28,missing=27
+				27:leaf=-1.28854e+06
+				28:leaf=-555955
+			14:[school_quota<7129.5] yes=29,no=30,missing=29
+				29:[full_sq<541.655] yes=53,no=54,missing=54
+					53:leaf=-611863
+					54:leaf=-159955
+				30:[floor<8.5] yes=55,no=56,missing=56
+					55:[ekder_all<31026] yes=97,no=98,missing=97
+						97:leaf=89800.5
+						98:leaf=-82558.1
+					56:leaf=410191
+booster[11]:
+0:[full_sq<59.9411] yes=1,no=2,missing=2
+	1:[floor<11.5] yes=3,no=4,missing=3
+		3:[num_room<2.5] yes=7,no=8,missing=8
+			7:[full_sq<37.5] yes=15,no=16,missing=16
+				15:[sadovoe_km<2.182] yes=29,no=30,missing=29
+					29:[area_m<4.39612e+06] yes=57,no=58,missing=57
+						57:leaf=682563
+						58:leaf=128932
+					30:[office_km<0.185466] yes=59,no=60,missing=59
+						59:leaf=-165586
+						60:leaf=-12876.6
+				16:[workplaces_km<1.34895] yes=31,no=32,missing=31
+					31:[church_synagogue_km<0.300812] yes=61,no=62,missing=61
+						61:leaf=-57027.8
+						62:leaf=123238
+					32:[prom_part_1000<28.54] yes=63,no=64,missing=63
+						63:leaf=35278
+						64:leaf=-141895
+			8:[green_part_5000<4.01] yes=17,no=18,missing=17
+				17:[month_09<1] yes=33,no=34,missing=33
+					33:leaf=-1.19142e+06
+					34:leaf=-242007
+				18:[sub_area_Hamovniki<1] yes=35,no=36,missing=35
+					35:[build_year<1968.5] yes=65,no=66,missing=66
+						65:leaf=-183150
+						66:leaf=-12729.2
+					36:[cafe_count_500_price_500<5] yes=67,no=68,missing=67
+						67:leaf=847353
+						68:leaf=-49086.2
+		4:[basketball_km<3.24281] yes=9,no=10,missing=9
+			9:[sub_area_Teplyj Stan<1] yes=19,no=20,missing=19
+				19:[green_part_1500<6.02] yes=37,no=38,missing=37
+					37:[cafe_sum_500_max_price_avg<1567.98] yes=69,no=70,missing=69
+						69:leaf=33885
+						70:leaf=-430060
+					38:[cafe_count_500_price_4000<2] yes=71,no=72,missing=71
+						71:leaf=196694
+						72:leaf=-615871
+				20:[full_sq<52.5] yes=39,no=40,missing=40
+					39:leaf=449300
+					40:leaf=6.49623e+06
+			10:[office_count_2000<10] yes=21,no=22,missing=21
+				21:[church_count_2000<5] yes=41,no=42,missing=41
+					41:[cafe_count_1000_price_2500<3] yes=73,no=74,missing=73
+						73:leaf=8950.57
+						74:leaf=-1.17333e+06
+					42:[railroad_station_avto_km<11.8537] yes=75,no=76,missing=75
+						75:leaf=237159
+						76:leaf=-964324
+				22:[bus_terminal_avto_km<6.29156] yes=43,no=44,missing=43
+					43:[life_sq<12.5] yes=77,no=78,missing=78
+						77:leaf=-372685
+						78:leaf=-1.37934e+06
+					44:[industrial_km<0.858815] yes=79,no=80,missing=79
+						79:leaf=214728
+						80:leaf=-687215
+	2:[office_count_1500<142] yes=5,no=6,missing=5
+		5:[workplaces_km<0.983863] yes=11,no=12,missing=11
+			11:[prom_part_500<8.16] yes=23,no=24,missing=23
+				23:[additional_education_km<0.686041] yes=45,no=46,missing=45
+					45:[young_female<3579] yes=81,no=82,missing=81
+						81:leaf=927790
+						82:leaf=339483
+					46:[big_road2_km<1.69064] yes=83,no=84,missing=83
+						83:leaf=387660
+						84:leaf=50793.9
+				24:[life_sq<79.5] yes=47,no=48,missing=48
+					47:[water_km<1.60879] yes=85,no=86,missing=85
+						85:leaf=-84065.7
+						86:leaf=-1.41066e+06
+					48:[ID_metro<161] yes=87,no=88,missing=87
+						87:leaf=344315
+						88:leaf=1.98895e+06
+			12:[hospital_beds_raion<4605] yes=25,no=26,missing=25
+				25:[railroad_km<0.0782011] yes=49,no=50,missing=49
+					49:[detention_facility_km<4.91395] yes=89,no=90,missing=89
+						89:leaf=-1.01817e+06
+						90:leaf=-142031
+					50:[mosque_km<0.175497] yes=91,no=92,missing=91
+						91:leaf=-1.15295e+06
+						92:leaf=63107.6
+				26:[num_room<3.5] yes=51,no=52,missing=52
+					51:[full_sq<70] yes=93,no=94,missing=94
+						93:leaf=523703
+						94:leaf=1.90099e+06
+					52:[full_sq<93.5] yes=95,no=96,missing=96
+						95:leaf=21009.6
+						96:leaf=403571
+		6:[workplaces_km<1.46788] yes=13,no=14,missing=13
+			13:leaf=2.84203e+06
+			14:[hospice_morgue_km<0.32827] yes=27,no=28,missing=27
+				27:[life_sq<44] yes=53,no=54,missing=54
+					53:leaf=1.48872e+06
+					54:leaf=367742
+				28:[metro_min_walk<2.67134] yes=55,no=56,missing=56
+					55:leaf=-868269
+					56:[life_sq<71.5] yes=97,no=98,missing=98
+						97:leaf=287289
+						98:leaf=14997.8
+booster[12]:
+0:[state<3.5] yes=1,no=2,missing=1
+	1:[green_zone_km<0.27923] yes=3,no=4,missing=3
+		3:[prom_part_3000<0.955] yes=7,no=8,missing=7
+			7:[ts_km<4.34161] yes=15,no=16,missing=15
+				15:[green_part_500<30.955] yes=31,no=32,missing=31
+					31:[fitness_km<0.572196] yes=57,no=58,missing=57
+						57:leaf=498727
+						58:leaf=-389504
+					32:[green_zone_km<0.0601948] yes=59,no=60,missing=59
+						59:leaf=1.90123e+06
+						60:leaf=739775
+				16:[radiation_km<1.08611] yes=33,no=34,missing=33
+					33:[life_sq<32.5] yes=61,no=62,missing=62
+						61:leaf=-111795
+						62:leaf=-1.19394e+06
+					34:[sport_count_500<4] yes=63,no=64,missing=63
+						63:leaf=210814
+						64:leaf=1.28847e+06
+			8:[cafe_count_500_price_high<2] yes=17,no=18,missing=17
+				17:[cemetery_km<0.0480725] yes=35,no=36,missing=35
+					35:[life_sq<73.5365] yes=65,no=66,missing=66
+						65:leaf=-28976.9
+						66:leaf=1.46582e+06
+					36:[school_education_centers_raion<5] yes=67,no=68,missing=67
+						67:leaf=5976.48
+						68:leaf=65844.7
+				18:[office_sqm_500<97459] yes=37,no=38,missing=37
+					37:[railroad_station_walk_km<2.7887] yes=69,no=70,missing=70
+						69:leaf=781672
+						70:leaf=1.99032e+06
+					38:[kindergarten_km<0.451344] yes=71,no=72,missing=71
+						71:leaf=178664
+						72:leaf=-652673
+		4:[metro_min_walk<10.1622] yes=9,no=10,missing=10
+			9:[shopping_centers_km<0.755707] yes=19,no=20,missing=19
+				19:[office_count_1500<142] yes=39,no=40,missing=39
+					39:[metro_min_walk<8.45543] yes=73,no=74,missing=74
+						73:leaf=69830.8
+						74:leaf=291185
+					40:[life_sq<41.5] yes=75,no=76,missing=75
+						75:leaf=1.97862e+06
+						76:leaf=312581
+				20:[railroad_km<0.0429849] yes=41,no=42,missing=41
+					41:[floor<15.5] yes=77,no=78,missing=78
+						77:leaf=-867088
+						78:leaf=-191065
+					42:[zd_vokzaly_avto_km<4.2574] yes=79,no=80,missing=79
+						79:leaf=519023
+						80:leaf=-39727.8
+			10:[sub_area_Kuncevo<1] yes=21,no=22,missing=21
+				21:[ID_railroad_station_avto<45] yes=43,no=44,missing=43
+					43:[prom_part_5000<1.56] yes=81,no=82,missing=82
+						81:leaf=-1.18295e+06
+						82:leaf=10760.1
+					44:[theater_km<0.167686] yes=83,no=84,missing=83
+						83:leaf=2.13278e+06
+						84:leaf=-67366.1
+				22:[nuclear_reactor_km<7.12017] yes=45,no=46,missing=45
+					45:[build_year<1996] yes=85,no=86,missing=86
+						85:leaf=208285
+						86:leaf=-1.73899e+06
+					46:[full_sq<84.5] yes=87,no=88,missing=88
+						87:leaf=137201
+						88:leaf=-1.28106e+06
+	2:[full_sq<114.5] yes=5,no=6,missing=6
+		5:[church_count_500<3] yes=11,no=12,missing=11
+			11:[zd_vokzaly_avto_km<8.19838] yes=23,no=24,missing=23
+				23:[cafe_count_1500_price_500<16] yes=47,no=48,missing=47
+					47:[metro_km_avto<1.47224] yes=89,no=90,missing=89
+						89:leaf=583678
+						90:leaf=1.50927e+06
+					48:[university_km<3.18952] yes=91,no=92,missing=91
+						91:leaf=268279
+						92:leaf=-1.14522e+06
+				24:[full_sq<111] yes=49,no=50,missing=50
+					49:[industrial_km<0.683493] yes=93,no=94,missing=93
+						93:leaf=-5797.12
+						94:leaf=293600
+					50:[life_sq<63.5] yes=95,no=96,missing=96
+						95:leaf=229746
+						96:leaf=-1.35229e+06
+			12:[max_floor<9.5] yes=25,no=26,missing=26
+				25:[full_sq<72.5] yes=51,no=52,missing=52
+					51:leaf=25113.9
+					52:leaf=-197149
+				26:leaf=-1.25301e+06
+		6:[big_road2_km<2.33236] yes=13,no=14,missing=13
+			13:[hospital_beds_raion<9404] yes=27,no=28,missing=28
+				27:leaf=2.11381e+06
+				28:leaf=720511
+			14:[trc_sqm_2000<260576] yes=29,no=30,missing=29
+				29:[cafe_sum_1000_max_price_avg<1431.24] yes=53,no=54,missing=54
+					53:[nuclear_reactor_km<5.5793] yes=97,no=98,missing=97
+						97:leaf=1.47003e+06
+						98:leaf=714039
+					54:[full_sq<140.5] yes=99,no=100,missing=100
+						99:leaf=-100437
+						100:leaf=29920.8
+				30:[raion_popul<40983] yes=55,no=56,missing=55
+					55:[full_sq<141] yes=101,no=102,missing=102
+						101:leaf=1479.6
+						102:leaf=392826
+					56:leaf=-432717
+booster[13]:
+0:[floor<2.5] yes=1,no=2,missing=1
+	1:[full_sq<181.5] yes=3,no=4,missing=3
+		3:[big_church_km<1.20175] yes=7,no=8,missing=7
+			7:[industrial_km<0.076997] yes=15,no=16,missing=15
+				15:[num_room<2.5] yes=29,no=30,missing=30
+					29:[ttk_km<0.550177] yes=57,no=58,missing=57
+						57:leaf=-1.00459e+06
+						58:leaf=143343
+					30:[green_part_1000<13.165] yes=59,no=60,missing=59
+						59:leaf=-339998
+						60:leaf=-1.23242e+06
+				16:[incineration_km<14.4995] yes=31,no=32,missing=31
+					31:[church_synagogue_km<0.101428] yes=61,no=62,missing=61
+						61:leaf=362603
+						62:leaf=-58346.8
+					32:[cafe_count_1000<15] yes=63,no=64,missing=63
+						63:leaf=-110094
+						64:leaf=-820516
+			8:[mkad_km<19.8695] yes=17,no=18,missing=17
+				17:[incineration_km<0.361928] yes=33,no=34,missing=33
+					33:leaf=-1.3612e+06
+					34:[hospice_morgue_km<0.197158] yes=65,no=66,missing=65
+						65:leaf=-412121
+						66:leaf=18427.9
+				18:[life_sq<44.5] yes=35,no=36,missing=35
+					35:[num_room<1.5] yes=67,no=68,missing=67
+						67:leaf=-13593.5
+						68:leaf=-198132
+					36:[nuclear_reactor_km<24.4671] yes=69,no=70,missing=69
+						69:leaf=-1.18032e+06
+						70:leaf=-230549
+		4:[school_quota<5098.5] yes=9,no=10,missing=10
+			9:leaf=2.58561e+06
+			10:[full_sq<255] yes=19,no=20,missing=20
+				19:[max_floor<12] yes=37,no=38,missing=38
+					37:leaf=552430
+					38:leaf=118239
+				20:[full_sq<505.485] yes=39,no=40,missing=40
+					39:leaf=-185563
+					40:leaf=3490.28
+	2:[ttk_km<3.49125] yes=5,no=6,missing=5
+		5:[kitch_sq<3.5] yes=11,no=12,missing=12
+			11:[cafe_count_1000_price_2500<7] yes=21,no=22,missing=21
+				21:[nuclear_reactor_km<2.0226] yes=41,no=42,missing=41
+					41:[num_room<2.5] yes=71,no=72,missing=72
+						71:leaf=2.33998e+06
+						72:leaf=521830
+					42:[big_church_count_2000<2] yes=73,no=74,missing=73
+						73:leaf=357711
+						74:leaf=-145689
+				22:[power_transmission_line_km<3.98854] yes=43,no=44,missing=43
+					43:[dayofmon_11<1] yes=75,no=76,missing=75
+						75:leaf=1.41477e+06
+						76:leaf=-530029
+					44:[max_floor<28] yes=77,no=78,missing=78
+						77:leaf=-791215
+						78:leaf=-109341
+			12:[additional_education_km<0.289791] yes=23,no=24,missing=23
+				23:[cafe_sum_2000_max_price_avg<1217.26] yes=45,no=46,missing=46
+					45:[bus_terminal_avto_km<7.36773] yes=79,no=80,missing=79
+						79:leaf=28318.1
+						80:leaf=-426458
+					46:[trc_count_2000<5] yes=81,no=82,missing=81
+						81:leaf=1.20654e+06
+						82:leaf=416536
+				24:[ice_rink_km<0.579102] yes=47,no=48,missing=47
+					47:[trc_count_1000<3] yes=83,no=84,missing=83
+						83:leaf=-12698.8
+						84:leaf=941522
+					48:[basketball_km<2.01649] yes=85,no=86,missing=85
+						85:leaf=11081.9
+						86:leaf=235673
+		6:[prom_part_5000<15.485] yes=13,no=14,missing=14
+			13:[green_zone_part<0.565764] yes=25,no=26,missing=25
+				25:[office_count_3000<5] yes=49,no=50,missing=49
+					49:[cafe_count_2000_price_4000<2] yes=87,no=88,missing=87
+						87:leaf=2260.1
+						88:leaf=237603
+					50:[raion_build_count_with_material_info<321] yes=89,no=90,missing=90
+						89:leaf=109787
+						90:leaf=5165.07
+				26:[month_02<1] yes=51,no=52,missing=51
+					51:[trc_sqm_2000<74575] yes=91,no=92,missing=91
+						91:leaf=16782
+						92:leaf=325046
+					52:[sport_count_500<1] yes=93,no=94,missing=93
+						93:leaf=106661
+						94:leaf=-637999
+			14:[office_count_5000<68] yes=27,no=28,missing=27
+				27:[railroad_station_walk_km<4.98463] yes=53,no=54,missing=54
+					53:[prom_part_2000<5.25] yes=95,no=96,missing=95
+						95:leaf=-199017
+						96:leaf=-10693.4
+					54:[green_zone_km<0.26958] yes=97,no=98,missing=97
+						97:leaf=410845
+						98:leaf=-487957
+				28:[full_sq<50.5] yes=55,no=56,missing=56
+					55:[additional_education_km<1.79645] yes=99,no=100,missing=99
+						99:leaf=-47460.9
+						100:leaf=-566868
+					56:[floor<7.5] yes=101,no=102,missing=102
+						101:leaf=-138094
+						102:leaf=-870026
+booster[14]:
+0:[floor<21.5] yes=1,no=2,missing=1
+	1:[state<2.5] yes=3,no=4,missing=3
+		3:[max_floor<1.5] yes=7,no=8,missing=8
+			7:[exhibition_km<0.431179] yes=15,no=16,missing=15
+				15:[metro_min_avto<2.04527] yes=31,no=32,missing=31
+					31:[num_room<2.5] yes=59,no=60,missing=60
+						59:leaf=1.18939e+06
+						60:leaf=259449
+					32:leaf=2.03108e+06
+				16:[ekder_male<6754] yes=33,no=34,missing=33
+					33:[area_m<3.88902e+06] yes=61,no=62,missing=61
+						61:leaf=-1.21057e+06
+						62:leaf=48380.9
+					34:[hospice_morgue_km<0.665444] yes=63,no=64,missing=63
+						63:leaf=916761
+						64:leaf=230628
+			8:[railroad_km<0.710102] yes=17,no=18,missing=17
+				17:[max_floor<25.5] yes=35,no=36,missing=35
+					35:[prom_part_1000<18.835] yes=65,no=66,missing=65
+						65:leaf=-5936.06
+						66:leaf=-107535
+					36:[incineration_km<9.78358] yes=67,no=68,missing=67
+						67:leaf=-1.65376e+06
+						68:leaf=-313223
+				18:[hospital_beds_raion<4605] yes=37,no=38,missing=37
+					37:[life_sq<105.5] yes=69,no=70,missing=69
+						69:leaf=3627.77
+						70:leaf=276745
+					38:[green_part_2000<9.295] yes=71,no=72,missing=71
+						71:leaf=-453855
+						72:leaf=693784
+		4:[build_year<2007.5] yes=9,no=10,missing=9
+			9:[build_year<1995.5] yes=19,no=20,missing=19
+				19:[leisure_count_1000<20] yes=39,no=40,missing=39
+					39:[kindergarten_km<0.757096] yes=73,no=74,missing=73
+						73:leaf=51198.7
+						74:leaf=-166729
+					40:[life_sq<153] yes=75,no=76,missing=76
+						75:leaf=1.89753e+06
+						76:leaf=330688
+				20:[material<1.5] yes=41,no=42,missing=42
+					41:[floor<14.5] yes=77,no=78,missing=78
+						77:leaf=112533
+						78:leaf=443796
+					42:[sadovoe_km<12.0618] yes=79,no=80,missing=79
+						79:leaf=710140
+						80:leaf=202716
+			10:[detention_facility_km<6.46871] yes=21,no=22,missing=21
+				21:[ttk_km<2.21307] yes=43,no=44,missing=43
+					43:[metro_min_walk<8.20583] yes=81,no=82,missing=81
+						81:leaf=-446985
+						82:leaf=899130
+					44:[museum_km<6.83573] yes=83,no=84,missing=83
+						83:leaf=-870793
+						84:leaf=-137323
+				22:[church_count_3000<15] yes=45,no=46,missing=45
+					45:[public_healthcare_km<0.736161] yes=85,no=86,missing=85
+						85:leaf=-1.15038e+06
+						86:leaf=-83868.6
+					46:[park_km<2.19485] yes=87,no=88,missing=87
+						87:leaf=1.07161e+06
+						88:leaf=-775030
+	2:[prom_part_5000<10.94] yes=5,no=6,missing=6
+		5:[sub_area_Prospekt Vernadskogo<1] yes=11,no=12,missing=11
+			11:[stadium_km<2.40495] yes=23,no=24,missing=23
+				23:[sport_objects_raion<11] yes=47,no=48,missing=47
+					47:[full_sq<51] yes=89,no=90,missing=90
+						89:leaf=-199594
+						90:leaf=309412
+					48:leaf=-1.35052e+06
+				24:[children_school<6140] yes=49,no=50,missing=49
+					49:[preschool_quota<3555.5] yes=91,no=92,missing=91
+						91:leaf=24213.5
+						92:leaf=-643423
+					50:[floor<25.5] yes=93,no=94,missing=94
+						93:leaf=215076
+						94:leaf=1.51206e+06
+			12:[build_year<2004] yes=25,no=26,missing=25
+				25:leaf=1.39718e+06
+				26:leaf=294083
+		6:[workplaces_km<1.23179] yes=13,no=14,missing=13
+			13:[big_market_km<14.6757] yes=27,no=28,missing=27
+				27:[railroad_station_avto_min<3.29045] yes=51,no=52,missing=51
+					51:[kitch_sq<5.5] yes=95,no=96,missing=95
+						95:leaf=-382340
+						96:leaf=536749
+					52:[cafe_sum_1500_max_price_avg<1342.21] yes=97,no=98,missing=98
+						97:leaf=384580
+						98:leaf=1.08233e+06
+				28:[detention_facility_km<3.69518] yes=53,no=54,missing=53
+					53:[metro_min_avto<3.08659] yes=99,no=100,missing=99
+						99:leaf=1.025e+06
+						100:leaf=-107030
+					54:[cafe_sum_5000_min_price_avg<739.545] yes=101,no=102,missing=102
+						101:leaf=-329586
+						102:leaf=-1.54063e+06
+			14:[full_sq<102.5] yes=29,no=30,missing=30
+				29:[ID_metro<143] yes=55,no=56,missing=55
+					55:[public_transport_station_km<0.0689708] yes=103,no=104,missing=103
+						103:leaf=1.03477e+06
+						104:leaf=353267
+					56:leaf=1.68884e+06
+				30:[month_07<1] yes=57,no=58,missing=57
+					57:leaf=1.88817e+06
+					58:leaf=150044
+booster[15]:
+0:[full_sq<39.5] yes=1,no=2,missing=2
+	1:[green_zone_part<0.0306314] yes=3,no=4,missing=3
+		3:[cafe_count_500_price_500<7] yes=7,no=8,missing=7
+			7:[life_sq<16.5] yes=15,no=16,missing=16
+				15:[big_church_km<0.565158] yes=31,no=32,missing=31
+					31:[cafe_sum_1000_min_price_avg<757.745] yes=63,no=64,missing=63
+						63:leaf=1032.45
+						64:leaf=-762180
+					32:[industrial_km<0.603094] yes=65,no=66,missing=65
+						65:leaf=36167.2
+						66:leaf=-441616
+				16:[office_sqm_500<383340] yes=33,no=34,missing=33
+					33:[cafe_count_1500_price_1000<77] yes=67,no=68,missing=67
+						67:leaf=96867.7
+						68:leaf=-716487
+					34:leaf=-778155
+			8:[public_transport_station_km<0.160854] yes=17,no=18,missing=17
+				17:[cafe_count_1000_price_2500<19] yes=35,no=36,missing=35
+					35:[state<3.5] yes=69,no=70,missing=69
+						69:leaf=371042
+						70:leaf=42428.5
+					36:[max_floor<4.5] yes=71,no=72,missing=71
+						71:leaf=-66049.5
+						72:leaf=170861
+				18:[build_year<1958.5] yes=37,no=38,missing=37
+					37:leaf=792832
+					38:leaf=260404
+		4:[office_sqm_1000<761636] yes=9,no=10,missing=9
+			9:[sub_area_Nagatinskij Zaton<1] yes=19,no=20,missing=19
+				19:[cafe_count_1000_price_500<3] yes=39,no=40,missing=39
+					39:[ID_big_road1<42] yes=73,no=74,missing=73
+						73:leaf=-43139.5
+						74:leaf=409821
+					40:[floor<12.5] yes=75,no=76,missing=76
+						75:leaf=-15368.2
+						76:leaf=128951
+				20:[railroad_km<0.302488] yes=41,no=42,missing=41
+					41:leaf=-681912
+					42:[life_sq<14] yes=77,no=78,missing=78
+						77:leaf=-693040
+						78:leaf=183849
+			10:[office_sqm_1000<1372052] yes=21,no=22,missing=21
+				21:[office_sqm_3000<4288494] yes=43,no=44,missing=43
+					43:[build_year<1977] yes=79,no=80,missing=80
+						79:leaf=103355
+						80:leaf=-1.12132e+06
+					44:[full_sq<30] yes=81,no=82,missing=82
+						81:leaf=-258785
+						82:leaf=88113.7
+				22:[school_km<0.727118] yes=45,no=46,missing=45
+					45:leaf=-45952
+					46:leaf=244837
+	2:[fitness_km<0.235312] yes=5,no=6,missing=5
+		5:[prom_part_3000<4.745] yes=11,no=12,missing=11
+			11:[thermal_power_plant_km<2.56095] yes=23,no=24,missing=23
+				23:[max_floor<7] yes=47,no=48,missing=48
+					47:[full_sq<80] yes=83,no=84,missing=84
+						83:leaf=84758.7
+						84:leaf=-550670
+					48:[cafe_sum_500_min_price_avg<922.75] yes=85,no=86,missing=85
+						85:leaf=1.28289e+06
+						86:leaf=599287
+				24:[life_sq<115] yes=49,no=50,missing=49
+					49:[full_sq<138.5] yes=87,no=88,missing=88
+						87:leaf=220571
+						88:leaf=-988338
+					50:[life_sq<153] yes=89,no=90,missing=90
+						89:leaf=1.63783e+06
+						90:leaf=281084
+			12:[ID_metro<110] yes=25,no=26,missing=25
+				25:[state<2.5] yes=51,no=52,missing=51
+					51:[swim_pool_km<1.37495] yes=91,no=92,missing=91
+						91:leaf=-313288
+						92:leaf=6017.6
+					52:[shopping_centers_km<0.216459] yes=93,no=94,missing=93
+						93:leaf=-260983
+						94:leaf=210994
+				26:[cafe_count_500_na_price<9] yes=53,no=54,missing=53
+					53:[cafe_sum_1000_max_price_avg<1095.26] yes=95,no=96,missing=95
+						95:leaf=-88363.5
+						96:leaf=290531
+					54:[full_sq<54.5] yes=97,no=98,missing=98
+						97:leaf=32421.2
+						98:leaf=-1.78726e+06
+		6:[preschool_quota<82.5] yes=13,no=14,missing=14
+			13:[hospice_morgue_km<1.29868] yes=27,no=28,missing=27
+				27:[dayofmon_15<1] yes=55,no=56,missing=55
+					55:[basketball_km<1.80031] yes=99,no=100,missing=99
+						99:leaf=-288918
+						100:leaf=-1.33409e+06
+					56:leaf=-1.60093e+06
+				28:[num_room<2.5] yes=57,no=58,missing=57
+					57:[ID_metro<147] yes=101,no=102,missing=101
+						101:leaf=-104245
+						102:leaf=606148
+					58:leaf=1.44257e+06
+			14:[floor<5.5] yes=29,no=30,missing=30
+				29:[railroad_km<0.0222522] yes=59,no=60,missing=59
+					59:[state<2.5] yes=103,no=104,missing=104
+						103:leaf=-1.20874e+06
+						104:leaf=-154238
+					60:[sub_area_Horoshevskoe<1] yes=105,no=106,missing=105
+						105:leaf=-12314.3
+						106:leaf=519862
+				30:[office_sqm_2000<2519555] yes=61,no=62,missing=61
+					61:[public_healthcare_km<1.19347] yes=107,no=108,missing=107
+						107:leaf=116832
+						108:leaf=18021.6
+					62:[cafe_count_500<22] yes=109,no=110,missing=109
+						109:leaf=357268
+						110:leaf=1.2495e+06
+booster[16]:
+0:[full_sq<223] yes=1,no=2,missing=1
+	1:[full_sq<192] yes=3,no=4,missing=3
+		3:[max_floor<19.5] yes=7,no=8,missing=7
+			7:[green_part_1500<76.775] yes=15,no=16,missing=15
+				15:[month_10<1] yes=27,no=28,missing=27
+					27:[railroad_station_walk_km<23.5492] yes=43,no=44,missing=44
+						43:leaf=8941.15
+						44:leaf=-366417
+					28:[hospice_morgue_km<0.111231] yes=45,no=46,missing=45
+						45:leaf=-903826
+						46:leaf=-50691.1
+				16:[full_sq<48] yes=29,no=30,missing=30
+					29:[material<1.5] yes=47,no=48,missing=47
+						47:leaf=-183827
+						48:leaf=-556205
+					30:[dayofmon_16<1] yes=49,no=50,missing=49
+						49:leaf=-939905
+						50:leaf=-102802
+			8:[big_road2_km<0.537725] yes=17,no=18,missing=17
+				17:[build_count_before_1920<5] yes=31,no=32,missing=32
+					31:[big_road2_km<0.421804] yes=51,no=52,missing=51
+						51:leaf=35493.6
+						52:leaf=-798391
+					32:[floor<14.5] yes=53,no=54,missing=54
+						53:leaf=-1.50439e+06
+						54:leaf=-279812
+				18:[workplaces_km<0.196586] yes=33,no=34,missing=33
+					33:[full_sq<52.5] yes=55,no=56,missing=56
+						55:leaf=-430023
+						56:leaf=1.18113e+06
+					34:[metro_min_avto<3.54605] yes=57,no=58,missing=57
+						57:leaf=126350
+						58:leaf=-23666.7
+		4:[build_count_wood<4.5] yes=9,no=10,missing=10
+			9:[life_sq<118.5] yes=19,no=20,missing=20
+				19:leaf=-512387
+				20:[floor<9] yes=35,no=36,missing=36
+					35:[full_sq<214.5] yes=59,no=60,missing=60
+						59:leaf=209231
+						60:leaf=-32343
+					36:leaf=827227
+			10:[swim_pool_km<1.20846] yes=21,no=22,missing=21
+				21:leaf=637863
+				22:[material<3] yes=37,no=38,missing=37
+					37:leaf=2.40910e+06
+					38:leaf=964360
+	2:[preschool_quota<2700] yes=5,no=6,missing=5
+		5:[prom_part_1000<19.975] yes=11,no=12,missing=11
+			11:leaf=-1.07523e+06
+			12:leaf=-292177
+		6:[green_part_2000<19.84] yes=13,no=14,missing=13
+			13:[life_sq<291] yes=23,no=24,missing=23
+				23:leaf=-514903
+				24:leaf=-100770
+			14:[floor<8.5] yes=25,no=26,missing=26
+				25:[build_count_mix<1.5] yes=39,no=40,missing=40
+					39:leaf=-168591
+					40:leaf=39800.1
+				26:[full_sq<3023.87] yes=41,no=42,missing=42
+					41:leaf=352142
+					42:leaf=93174.6
+booster[17]:
+0:[sub_area_Krylatskoe<1] yes=1,no=2,missing=1
+	1:[prom_part_5000<1.01] yes=3,no=4,missing=4
+		3:[office_km<1.47847] yes=7,no=8,missing=7
+			7:[full_sq<73.5] yes=15,no=16,missing=16
+				15:leaf=16226.2
+				16:leaf=-1.33736e+06
+			8:[full_sq<110] yes=17,no=18,missing=18
+				17:[floor<1.5] yes=31,no=32,missing=31
+					31:[full_sq<60] yes=57,no=58,missing=58
+						57:leaf=117878
+						58:leaf=-153772
+					32:[museum_km<16.1812] yes=59,no=60,missing=59
+						59:leaf=277731
+						60:leaf=-101092
+				18:[floor<4] yes=33,no=34,missing=34
+					33:[life_sq<64.5] yes=61,no=62,missing=62
+						61:leaf=-31107
+						62:leaf=379996
+					34:leaf=923188
+		4:[catering_km<0.14518] yes=9,no=10,missing=9
+			9:[ID_railroad_station_walk<32.5] yes=19,no=20,missing=19
+				19:[big_road2_km<1.68017] yes=35,no=36,missing=35
+					35:[school_km<0.521706] yes=63,no=64,missing=63
+						63:leaf=-400496
+						64:leaf=-10392.2
+					36:[school_education_centers_top_20_raion<1] yes=65,no=66,missing=65
+						65:leaf=40530.1
+						66:leaf=-75198
+				20:[build_year<1997.5] yes=37,no=38,missing=37
+					37:[build_count_block<22.5] yes=67,no=68,missing=67
+						67:leaf=232357
+						68:leaf=20702.8
+					38:[railroad_km<0.693027] yes=69,no=70,missing=69
+						69:leaf=-81434.9
+						70:leaf=504300
+			10:[catering_km<0.148195] yes=21,no=22,missing=21
+				21:[green_part_1000<26.24] yes=39,no=40,missing=39
+					39:[build_count_1946-1970<209.5] yes=71,no=72,missing=72
+						71:leaf=77097.3
+						72:leaf=-548995
+					40:[area_m<7.71289e+06] yes=73,no=74,missing=73
+						73:leaf=-596901
+						74:leaf=-1.51306e+06
+				22:[product_type_Investment<1] yes=41,no=42,missing=41
+					41:[ekder_all<38827] yes=75,no=76,missing=75
+						75:leaf=20608.8
+						76:leaf=620137
+					42:[build_year<2009.5] yes=77,no=78,missing=77
+						77:leaf=-3815.55
+						78:leaf=-347043
+	2:[green_part_500<17.555] yes=5,no=6,missing=5
+		5:[water_treatment_km<20.3603] yes=11,no=12,missing=11
+			11:[num_room<2.5] yes=23,no=24,missing=23
+				23:[catering_km<0.174967] yes=43,no=44,missing=43
+					43:[metro_min_walk<12.0781] yes=79,no=80,missing=80
+						79:leaf=227657
+						80:leaf=-1.01015e+06
+					44:[full_sq<55.5] yes=81,no=82,missing=82
+						81:leaf=-389761
+						82:leaf=-1.97533e+06
+				24:[catering_km<0.120654] yes=45,no=46,missing=45
+					45:leaf=171772
+					46:leaf=543296
+			12:[school_km<0.42835] yes=25,no=26,missing=25
+				25:[public_healthcare_km<1.45973] yes=47,no=48,missing=47
+					47:[dayofmon_16<1] yes=83,no=84,missing=83
+						83:leaf=605419
+						84:leaf=149589
+					48:leaf=43203.9
+				26:[full_sq<44] yes=49,no=50,missing=50
+					49:leaf=114900
+					50:[full_sq<52] yes=85,no=86,missing=86
+						85:leaf=4406.03
+						86:leaf=-18657.6
+		6:[trc_count_1500<3] yes=13,no=14,missing=13
+			13:[full_sq<115.5] yes=27,no=28,missing=28
+				27:[build_year<2006] yes=51,no=52,missing=51
+					51:[full_sq<37.5] yes=87,no=88,missing=88
+						87:leaf=34818.6
+						88:leaf=154949
+					52:[full_sq<62.5] yes=89,no=90,missing=90
+						89:leaf=2158.3
+						90:leaf=-202251
+				28:leaf=-712139
+			14:[full_sq<102.5] yes=29,no=30,missing=30
+				29:[full_sq<88] yes=53,no=54,missing=54
+					53:[full_sq<38.5] yes=91,no=92,missing=92
+						91:leaf=242979
+						92:leaf=767522
+					54:leaf=-311899
+				30:[full_sq<135] yes=55,no=56,missing=56
+					55:leaf=1.69861e+06
+					56:leaf=211471
+booster[18]:
+0:[max_floor<9.5] yes=1,no=2,missing=1
+	1:[max_floor<1.5] yes=3,no=4,missing=4
+		3:[bus_terminal_avto_km<3.56663] yes=7,no=8,missing=7
+			7:[detention_facility_km<6.548] yes=15,no=16,missing=15
+				15:[full_sq<56.5] yes=31,no=32,missing=32
+					31:[metro_min_avto<0.966176] yes=63,no=64,missing=63
+						63:leaf=-102885
+						64:leaf=-351606
+					32:leaf=25533.6
+				16:[month_02<1] yes=33,no=34,missing=33
+					33:[cafe_sum_500_min_price_avg<1058.33] yes=65,no=66,missing=66
+						65:leaf=1.14425e+06
+						66:leaf=619357
+					34:[full_sq<101] yes=67,no=68,missing=68
+						67:leaf=378361
+						68:leaf=-449738
+			8:[exhibition_km<0.431179] yes=17,no=18,missing=17
+				17:[metro_min_walk<12.5144] yes=35,no=36,missing=36
+					35:[full_sq<56.5] yes=69,no=70,missing=70
+						69:leaf=136144
+						70:leaf=-171302
+					36:leaf=1.44913e+06
+				18:[sub_area_Sviblovo<1] yes=37,no=38,missing=37
+					37:[area_m<4.74167e+06] yes=71,no=72,missing=71
+						71:leaf=-567976
+						72:leaf=44182.1
+					38:[full_sq<60] yes=73,no=74,missing=74
+						73:leaf=401811
+						74:leaf=799761
+		4:[public_transport_station_km<0.0193403] yes=9,no=10,missing=9
+			9:[full_sq<56.5] yes=19,no=20,missing=20
+				19:[ID_railroad_station_avto<8] yes=39,no=40,missing=39
+					39:leaf=-769275
+					40:[kindergarten_km<0.572784] yes=75,no=76,missing=75
+						75:leaf=257340
+						76:leaf=-145743
+				20:[radiation_km<2.76882] yes=41,no=42,missing=41
+					41:[bus_terminal_avto_km<4.96499] yes=77,no=78,missing=77
+						77:leaf=358342
+						78:leaf=1.04822e+06
+					42:[month_03<1] yes=79,no=80,missing=79
+						79:leaf=373488
+						80:leaf=32365.5
+			10:[office_count_1000<54] yes=21,no=22,missing=21
+				21:[cafe_avg_price_500<1043.3] yes=43,no=44,missing=43
+					43:[cafe_count_500<65] yes=81,no=82,missing=81
+						81:leaf=-6637.81
+						82:leaf=-1.12185e+06
+					44:[life_sq<37.5] yes=83,no=84,missing=84
+						83:leaf=-2697.83
+						84:leaf=-195357
+				22:[detention_facility_km<2.04913] yes=45,no=46,missing=45
+					45:[cafe_sum_5000_max_price_avg<1447.47] yes=85,no=86,missing=86
+						85:leaf=685073
+						86:leaf=-247009
+					46:[build_year<1963] yes=87,no=88,missing=87
+						87:leaf=518969
+						88:leaf=-1.16155e+06
+	2:[build_year<2006.5] yes=5,no=6,missing=5
+		5:[build_year<2001.5] yes=11,no=12,missing=11
+			11:[prom_part_3000<4.555] yes=23,no=24,missing=23
+				23:[stadium_km<2.04084] yes=47,no=48,missing=47
+					47:[bulvar_ring_km<13.1574] yes=89,no=90,missing=89
+						89:leaf=-39736.4
+						90:leaf=-1.40248e+06
+					48:[nuclear_reactor_km<3.07355] yes=91,no=92,missing=91
+						91:leaf=439928
+						92:leaf=69871.9
+				24:[office_km<0.354567] yes=49,no=50,missing=49
+					49:[university_km<0.299579] yes=93,no=94,missing=93
+						93:leaf=-1.17707e+06
+						94:leaf=136105
+					50:[office_sqm_1500<567063] yes=95,no=96,missing=95
+						95:leaf=-14474.4
+						96:leaf=-384363
+			12:[cafe_count_5000_na_price<15] yes=25,no=26,missing=25
+				25:[16_29_all<7539] yes=51,no=52,missing=51
+					51:[cafe_sum_500_min_price_avg<537.5] yes=97,no=98,missing=98
+						97:leaf=4867.34
+						98:leaf=-816359
+					52:[trc_count_1000<9] yes=99,no=100,missing=99
+						99:leaf=128108
+						100:leaf=-1.6902e+06
+				26:[prom_part_2000<6.125] yes=53,no=54,missing=53
+					53:[cafe_count_2000_na_price<3] yes=101,no=102,missing=101
+						101:leaf=560759
+						102:leaf=1.78283e+06
+					54:[dayofmon_07<1] yes=103,no=104,missing=103
+						103:leaf=399352
+						104:leaf=-1.18446e+06
+		6:[product_type_Investment<1] yes=13,no=14,missing=13
+			13:[stadium_km<2.61876] yes=27,no=28,missing=27
+				27:[additional_education_km<0.208] yes=55,no=56,missing=55
+					55:leaf=-767308
+					56:[basketball_km<1.49128] yes=105,no=106,missing=105
+						105:leaf=560363
+						106:leaf=188662
+				28:[prom_part_3000<19.39] yes=57,no=58,missing=57
+					57:[full_sq<122.458] yes=107,no=108,missing=108
+						107:leaf=28590.2
+						108:leaf=-449969
+					58:[green_part_500<14.335] yes=109,no=110,missing=109
+						109:leaf=100562
+						110:leaf=462025
+			14:[water_km<0.655573] yes=29,no=30,missing=29
+				29:[detention_facility_km<14.5784] yes=59,no=60,missing=59
+					59:[build_count_brick<142] yes=111,no=112,missing=112
+						111:leaf=-586787
+						112:leaf=-205691
+					60:[male_f<35875] yes=113,no=114,missing=113
+						113:leaf=-243137
+						114:leaf=78442.2
+				30:[nuclear_reactor_km<1.0613] yes=61,no=62,missing=61
+					61:[full_sq<34.5] yes=115,no=116,missing=116
+						115:leaf=87552.2
+						116:leaf=-1.53071e+06
+					62:[green_part_3000<15.955] yes=117,no=118,missing=117
+						117:leaf=164045
+						118:leaf=-136681
+booster[19]:
+0:[mosque_km<0.221053] yes=1,no=2,missing=1
+	1:[full_sq<55] yes=3,no=4,missing=4
+		3:[full_sq<39.5] yes=7,no=8,missing=8
+			7:[max_floor<11.5] yes=15,no=16,missing=15
+				15:leaf=-967214
+				16:leaf=117980
+			8:[railroad_station_walk_km<2.80379] yes=17,no=18,missing=18
+				17:[full_sq<46] yes=25,no=26,missing=26
+					25:leaf=-42782.4
+					26:leaf=-458824
+				18:[life_sq<31.5] yes=27,no=28,missing=28
+					27:[full_sq<42.5] yes=39,no=40,missing=40
+						39:leaf=74690.8
+						40:leaf=501405
+					28:[full_sq<51] yes=41,no=42,missing=42
+						41:leaf=-90779.9
+						42:leaf=134783
+		4:[build_year<1992.5] yes=9,no=10,missing=10
+			9:leaf=347090
+			10:[industrial_km<0.37724] yes=19,no=20,missing=19
+				19:leaf=-537449
+				20:[month_08<1] yes=29,no=30,missing=29
+					29:leaf=-1.60215e+06
+					30:leaf=-346075
+	2:[office_sqm_3000<5963606] yes=5,no=6,missing=5
+		5:[kitch_sq<11.5] yes=11,no=12,missing=11
+			11:[thermal_power_plant_km<1.46964] yes=21,no=22,missing=21
+				21:[prom_part_1500<11.78] yes=31,no=32,missing=31
+					31:[office_sqm_500<171512] yes=43,no=44,missing=43
+						43:leaf=258203
+						44:leaf=-645741
+					32:[prom_part_1500<11.845] yes=45,no=46,missing=45
+						45:leaf=-1.30677e+06
+						46:leaf=12360.6
+				22:[office_sqm_2000<3110344] yes=33,no=34,missing=33
+					33:[railroad_km<0.22392] yes=47,no=48,missing=47
+						47:leaf=-53075.2
+						48:leaf=2516.53
+					34:[office_sqm_500<103353] yes=49,no=50,missing=49
+						49:leaf=131524
+						50:leaf=-1.19097e+06
+			12:[build_year<2007.5] yes=23,no=24,missing=24
+				23:[floor<18.5] yes=35,no=36,missing=36
+					35:[state<1.5] yes=51,no=52,missing=52
+						51:leaf=-353368
+						52:leaf=261946
+					36:[ID_metro<46] yes=53,no=54,missing=53
+						53:leaf=82260.7
+						54:leaf=1.40127e+06
+				24:[preschool_quota<2383.5] yes=37,no=38,missing=38
+					37:[cafe_count_2000_price_500<24] yes=55,no=56,missing=55
+						55:leaf=-148717
+						56:leaf=-961807
+					38:[cafe_count_1000<23] yes=57,no=58,missing=57
+						57:leaf=10898.4
+						58:leaf=835022
+		6:[full_sq<51.5] yes=13,no=14,missing=14
+			13:leaf=-211257
+			14:leaf=-1.40609e+06
